@@ -2,3 +2,4 @@ hotpot_data/hotpot_train_v1.json filter=lfs diff=lfs merge=lfs -text
 pretrained_Tensorflow_BERT/uncased_L-12_H-768_A-12/uncased_L-12_H-768_A-12/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
 DecompRC/data/** filter=lfs diff=lfs merge=lfs -text
 DecompRC/hotpot_data/** filter=lfs diff=lfs merge=lfs -text
+DecompRC/model/** filter=lfs diff=lfs merge=lfs -text
