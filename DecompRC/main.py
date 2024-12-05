@@ -52,28 +52,6 @@ RawResult = collections.namedtuple("RawResult",
                                    ["unique_id", "start_logits", "end_logits", "switch"])
 
 
-def save_decomposition_scores(output_dir, output_file):
-    """
-    분해 점수를 JSON 파일로 저장하는 함수.
-    """
-    score_file = os.path.join(output_dir, "dev_class_scores.json")
-    with open(score_file, 'r') as f:
-        scores = json.load(f)
-
-    formatted_scores = {}
-    for key, value in scores.items():
-        formatted_scores[key] = {
-            "bridging_score": value.get("bridge", 0),
-            "intersection_score": value.get("intersec", 0),
-            "comparison_score": value.get("comparison", 0)
-        }
-
-    with open(output_file, 'w') as f:
-        json.dump(formatted_scores, f, indent=4)
-
-    print(f"Decomposition scores saved to {output_file}")
-
-
 def main():
     parser = argparse.ArgumentParser()
     BERT_DIR = "/home/sewon/for-inference/model/uncased_L-12_H-768_A-12/"
@@ -361,10 +339,6 @@ def main():
             model.eval()
         f1 = predict(args, model, eval_dataloader, eval_examples, eval_features, device)
         logger.info("Final %s score: %.3f%%" % (metric_name, f1*100.0))
-
-        # 분해 점수를 저장하는 함수 호출
-        save_decomposition_scores(args.output_dir, "data/decomposed-predictions/decomposition_scores.json")
-
 
 
 def predict(args, model, eval_dataloader, eval_examples, eval_features, device, \
