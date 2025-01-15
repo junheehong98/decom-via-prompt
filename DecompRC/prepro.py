@@ -769,7 +769,7 @@ def convert_examples_to_features(logger, examples, tokenizer, max_seq_length,
                 unique_id += 1
 
         return features, counter_n_answers, truncated
-    outputs = Parallel(n_jobs=5, verbose=2)(delayed(_convert_examples_to_features)(example_index, example) \
+    outputs = Parallel(n_jobs=10, verbose=2)(delayed(_convert_examples_to_features)(example_index, example) \
                                               for example_index, example in enumerate(examples))
 
     features, counter_n_answers, truncated = [], collections.Counter(), []
