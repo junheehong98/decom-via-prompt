@@ -769,9 +769,9 @@ def convert_examples_to_features(logger, examples, tokenizer, max_seq_length,
                 unique_id += 1
 
         return features, counter_n_answers, truncated
-    outputs = Parallel(n_jobs=5, verbose=2)(delayed(_convert_examples_to_features)(example_index, example) \
-                                              for example_index, example in enumerate(examples))
-
+    # outputs = Parallel(n_jobs=10, verbose=2)(delayed(_convert_examples_to_features)(example_index, example) \
+    #                                           for example_index, example in enumerate(examples))
+    outputs = [_convert_examples_to_features(example_index, example) for example_index, example in enumerate(examples)]
     features, counter_n_answers, truncated = [], collections.Counter(), []
     for (f, c, t) in outputs:
         features += f
@@ -905,3 +905,16 @@ def _check_is_max_context(doc_spans, cur_span_index, position):
             best_span_index = span_index
 
     return cur_span_index == best_span_index
+
+
+
+
+
+
+
+
+
+
+
+
+
