@@ -1,0 +1,2696 @@
+[
+  {
+    "id": "5ac120c55542992a796dedfc",
+    "original_question": "Maxeda has been owned since 2004 by which American multinational equity firm?",
+    "S_tokenized_question": "maxeda has been owned since 2004 by S which S american multinational equity firm ?",
+    "sub_question_1": "maxeda has been owned since 2004 by which ?",
+    "sub_question_2": "which american multinational equity firm ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "KKR & Co"
+      ],
+      "sub_question_2_answers": [
+        "KKR & Co"
+      ]
+    },
+    "class_scores": [
+      [
+        0.5767759108544636,
+        0.8,
+        0,
+        "Maxeda has been owned since 2004 by which American multinational equity firm? (bridge) kkr & co. l.p."
+      ],
+      [
+        0.9999406129074663,
+        0,
+        1,
+        "Maxeda has been owned since 2004 by which American multinational equity firm? (intersec) kohlberg kravis roberts"
+      ],
+      [
+        0.9999469599854478,
+        0,
+        2,
+        "Maxeda has been owned since 2004 by which American multinational equity firm? (onehop) kohlberg kravis roberts"
+      ]
+    ],
+    "dev_predictions": [
+      "maxeda has been owned since 2004 by which ?",
+      "which american multinational equity firm ?",
+      "maxeda has been owned since 2004 by which american multinational equity firm ?",
+      "maxeda has been owned since 2004 by which american multinational equity firm ?"
+    ]
+  },
+  {
+    "id": "5a7f113d55429934daa2fcbe",
+    "original_question": "Which professional baseball player and National 1993 Baseball Hall of Fame inductee is featured in the Greatest Sports Legends anthology? ",
+    "S_tokenized_question": "which S professional baseball player and national 1993 baseball hall of fame S inductee is featured in the greatest sports legends anthology ?",
+    "sub_question_1": "which professional baseball player and national 1993 baseball hall of fame inductee ?",
+    "sub_question_2": "which is featured in the greatest sports legends anthology ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Reginald Martinez \"Reggie\" Jackson"
+      ],
+      "sub_question_2_answers": [
+        "Reginald Martinez \"Reggie\" Jackson"
+      ]
+    },
+    "class_scores": [
+      [
+        0.34250116876816644,
+        0,
+        0,
+        "Which professional baseball player and National 1993 Baseball Hall of Fame inductee is featured in the Greatest Sports Legends anthology?  (bridge) mickey charles mantle"
+      ],
+      [
+        0.8991005125663182,
+        0.5,
+        1,
+        "Which professional baseball player and National 1993 Baseball Hall of Fame inductee is featured in the Greatest Sports Legends anthology?  (intersec) paul hornung, reggie jackson"
+      ],
+      [
+        0.9023416201552478,
+        0.5,
+        2,
+        "Which professional baseball player and National 1993 Baseball Hall of Fame inductee is featured in the Greatest Sports Legends anthology?  (onehop) reggie jackson, steve garvey"
+      ]
+    ],
+    "dev_predictions": [
+      "which professional baseball player and national 1993 baseball hall of fame inductee ?",
+      "which is featured in the greatest sports legends anthology ?",
+      "which professional baseball player and national 1993 baseball hall of fame inductee is featured in the greatest sports legends anthology ?",
+      "which professional baseball player and national 1993 baseball hall of fame inductee is featured in the greatest sports legends anthology ?"
+    ]
+  },
+  {
+    "id": "5adcc3ed5542994d58a2f6c4",
+    "original_question": "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City?",
+    "S_tokenized_question": "what group S did carlene lefevre and rich lefevre form S in brooklyn , new york city ?",
+    "sub_question_1": "what group did carlene lefevre ?",
+    "sub_question_2": "what group rich lefevre form in brooklyn , new york city ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "the \"First Family of Competitive Eating\""
+      ],
+      "sub_question_2_answers": [
+        "the \"First Family of Competitive Eating\""
+      ]
+    },
+    "class_scores": [
+      [
+        0.019745137962840036,
+        1.0,
+        0,
+        "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City? (bridge) first family of competitive eating\""
+      ],
+      [
+        0.14594837827947726,
+        1.0,
+        1,
+        "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City? (intersec) first family of competitive eating\""
+      ],
+      [
+        0.04952185969254161,
+        1.0,
+        2,
+        "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City? (onehop) first family of competitive eating"
+      ]
+    ],
+    "dev_predictions": [
+      "what group did carlene lefevre ?",
+      "what group rich lefevre form in brooklyn , new york city ?",
+      "what group did carlene lefevre and rich lefevre form in brooklyn , new york city ?",
+      "what group did carlene lefevre and rich lefevre form in brooklyn , new york city ?"
+    ]
+  },
+  {
+    "id": "5abaeda95542992ccd8e7e5d",
+    "original_question": "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank?",
+    "S_tokenized_question": "what is the fictional name of the mall S in the movie \" back to the future \" S which was filmed at the headquarters of evertrust bank ?",
+    "sub_question_1": "what is the fictional name of the mall in the movie \" ?",
+    "sub_question_2": "what is the fictional name of the mall in the movie back to the future \" which was filmed at the headquarters of evertrust bank ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Twin Pines/Lone Pine Mall"
+      ],
+      "sub_question_2_answers": [
+        "Twin Pines/Lone Pine Mall"
+      ]
+    },
+    "class_scores": [
+      [
+        0.040080468939048465,
+        0,
+        0,
+        "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank? (bridge) merida"
+      ],
+      [
+        0.0007516653103963472,
+        0.28571428571428575,
+        1,
+        "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank? (intersec) puente hills mall"
+      ],
+      [
+        0.043571865661255454,
+        0.5714285714285715,
+        2,
+        "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank? (onehop) lone pine mall"
+      ]
+    ],
+    "dev_predictions": [
+      "what is the fictional name of the mall in the movie \" ?",
+      "what is the fictional name of the mall in the movie back to the future \" which was filmed at the headquarters of evertrust bank ?",
+      "what is the fictional name of the mall in the movie \" back to the future \" which was filmed at the headquarters of evertrust bank ?",
+      "what is the fictional name of the mall in the movie \" back to the future \" which was filmed at the headquarters of evertrust bank ?"
+    ]
+  },
+  {
+    "id": "5a898872554299669944a540",
+    "original_question": "What was the name of Kalyanji Virji Shah's brother who won the Filmfare Award for Best Music Director?",
+    "S_tokenized_question": "what was the name of S kalyanji virji shah 's brother S who won the filmfare award for best music director ?",
+    "sub_question_1": "what was the name of kalyanji virji shah 's brother ?",
+    "sub_question_2": "what was the name of won the filmfare award for best music director ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Anandji Virji Shah"
+      ],
+      "sub_question_2_answers": [
+        "Anandji Virji Shah"
+      ]
+    },
+    "class_scores": [
+      [
+        0.0001910448314651536,
+        0,
+        0,
+        "What was the name of Kalyanji Virji Shah's brother who won the Filmfare Award for Best Music Director? (bridge) devi sri prasad"
+      ],
+      [
+        0.022026454724690836,
+        1.0,
+        1,
+        "What was the name of Kalyanji Virji Shah's brother who won the Filmfare Award for Best Music Director? (intersec) anandji virji shah"
+      ],
+      [
+        0.016533667357896988,
+        1.0,
+        2,
+        "What was the name of Kalyanji Virji Shah's brother who won the Filmfare Award for Best Music Director? (onehop) anandji virji shah"
+      ]
+    ],
+    "dev_predictions": [
+      "what was the name of kalyanji virji shah 's brother ?",
+      "what was the name of won the filmfare award for best music director ?",
+      "what was the name of kalyanji virji shah 's brother who won the filmfare award for best music director ?",
+      "what was the name of kalyanji virji shah 's brother who won the filmfare award for best music director ?"
+    ]
+  },
+  {
+    "id": "5adce2ee5542992c1e3a2461",
+    "original_question": "What city that Lettuce Lake Park is just outside of is the largest in Hillsborough County, Florida? ",
+    "S_tokenized_question": "what city S that lettuce lake park is just outside of S is the largest in hillsborough county , florida ?",
+    "sub_question_1": "what city lettuce lake park is just outside of ?",
+    "sub_question_2": "what city is the largest in hillsborough county , florida ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Tampa"
+      ],
+      "sub_question_2_answers": [
+        "Tampa"
+      ]
+    },
+    "class_scores": [
+      [
+        1.9137411151563198e-05,
+        0,
+        0,
+        "What city that Lettuce Lake Park is just outside of is the largest in Hillsborough County, Florida?  (bridge) lettuce lake park"
+      ],
+      [
+        0.9999878275395643,
+        1.0,
+        1,
+        "What city that Lettuce Lake Park is just outside of is the largest in Hillsborough County, Florida?  (intersec) tampa"
+      ],
+      [
+        0.9994002020879081,
+        1.0,
+        2,
+        "What city that Lettuce Lake Park is just outside of is the largest in Hillsborough County, Florida?  (onehop) tampa"
+      ]
+    ],
+    "dev_predictions": [
+      "what city lettuce lake park is just outside of ?",
+      "what city is the largest in hillsborough county , florida ?",
+      "what city that lettuce lake park is just outside of is the largest in hillsborough county , florida ?",
+      "what city that lettuce lake park is just outside of is the largest in hillsborough county , florida ?"
+    ]
+  },
+  {
+    "id": "5ae5a4e5554299546bf82f01",
+    "original_question": "Which writer of \"Rewrite This Story\" are an American songwriting duo and composing team for musical theater, films, and television?",
+    "S_tokenized_question": "which writer S of \" rewrite this story \" S are an american songwriting duo and composing team for musical theater , films , and television ?",
+    "sub_question_1": "which writer of \" rewrite this story \" ?",
+    "sub_question_2": "which writer are an american songwriting duo and composing team for musical theater , films , and television ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Pasek and Paul"
+      ],
+      "sub_question_2_answers": [
+        "Pasek and Paul"
+      ]
+    },
+    "class_scores": [
+      [
+        0.001773285579688759,
+        0,
+        0,
+        "Which writer of \"Rewrite This Story\" are an American songwriting duo and composing team for musical theater, films, and television? (bridge) ray evans"
+      ],
+      [
+        0.8841031252205207,
+        0.7499999999999999,
+        1,
+        "Which writer of \"Rewrite This Story\" are an American songwriting duo and composing team for musical theater, films, and television? (intersec) benj pasek and justin paul"
+      ],
+      [
+        0.01435835290108612,
+        0,
+        2,
+        "Which writer of \"Rewrite This Story\" are an American songwriting duo and composing team for musical theater, films, and television? (onehop) jeremy jordan"
+      ]
+    ],
+    "dev_predictions": [
+      "which writer of \" rewrite this story \" ?",
+      "which writer are an american songwriting duo and composing team for musical theater , films , and television ?",
+      "which writer of \" rewrite this story \" are an american songwriting duo and composing team for musical theater , films , and television ?",
+      "which writer of \" rewrite this story \" are an american songwriting duo and composing team for musical theater , films , and television ?"
+    ]
+  },
+  {
+    "id": "5abd6a7455429933744ab7c5",
+    "original_question": "What German medium tank, sometimes called the \"Mark V\", that was deployed on the Eastern and Western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by Nazi Germany during World War II?",
+    "S_tokenized_question": "what german medium tank , S sometimes called the \" mark v \" S , that was deployed on the eastern and western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by nazi germany during world war ii ?",
+    "sub_question_1": "what german medium tank , sometimes called the \" mark v \" was deployed on the eastern and western fronts from mid-1943 ?",
+    "sub_question_2": "what german medium tank , sometimes called the \" mark v \" provided the armor and suspension for the chassis of the tank destroyer built by nazi germany during world war ii ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "The Panther"
+      ],
+      "sub_question_2_answers": [
+        "The Panther"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9882578123674252,
+        1.0,
+        0,
+        "What German medium tank, sometimes called the \"Mark V\", that was deployed on the Eastern and Western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by Nazi Germany during World War II? (bridge) panther"
+      ],
+      [
+        0.9998232034535333,
+        1.0,
+        1,
+        "What German medium tank, sometimes called the \"Mark V\", that was deployed on the Eastern and Western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by Nazi Germany during World War II? (intersec) panther"
+      ],
+      [
+        0.9999630177742634,
+        1.0,
+        2,
+        "What German medium tank, sometimes called the \"Mark V\", that was deployed on the Eastern and Western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by Nazi Germany during World War II? (onehop) panther"
+      ]
+    ],
+    "dev_predictions": [
+      "what german medium tank , sometimes called the \" mark v \" was deployed on the eastern and western fronts from mid-1943 ?",
+      "what german medium tank , sometimes called the \" mark v \" provided the armor and suspension for the chassis of the tank destroyer built by nazi germany during world war ii ?",
+      "what german medium tank , sometimes called the \" mark v \" , that was deployed on the eastern and western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by nazi germany during world war ii ?",
+      "what german medium tank , sometimes called the \" mark v \" , that was deployed on the eastern and western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by nazi germany during world war ii ?"
+    ]
+  },
+  {
+    "id": "5ae5e8c85542996de7b71a69",
+    "original_question": "Name the actor who has acted in the film Arrival and who has been nominated for the Academy Award for Best Supporting Actor for the film `The Town' ?",
+    "S_tokenized_question": "name the actor S who has acted in the film arrival S and who has been nominated for the academy award for best supporting actor for the film ` the town ' ?",
+    "sub_question_1": "name the actor who has acted in the film arrival and who has been nominated for the academy award for best supporting actor ?",
+    "sub_question_2": "who has acted in the film arrival and who has been nominated for the academy award for best supporting actor for the film ` the town ' ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Jeremy Renner"
+      ],
+      "sub_question_2_answers": [
+        "Jeremy Renner"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999733402405402,
+        0.8,
+        0,
+        "Name the actor who has acted in the film Arrival and who has been nominated for the Academy Award for Best Supporting Actor for the film `The Town' ? (bridge) jeremy lee renner"
+      ],
+      [
+        0.9815112835960045,
+        0.6666666666666666,
+        1,
+        "Name the actor who has acted in the film Arrival and who has been nominated for the Academy Award for Best Supporting Actor for the film `The Town' ? (intersec) amy adams, jeremy renner"
+      ],
+      [
+        0.9958493160859159,
+        1.0,
+        2,
+        "Name the actor who has acted in the film Arrival and who has been nominated for the Academy Award for Best Supporting Actor for the film `The Town' ? (onehop) jeremy renner"
+      ]
+    ],
+    "dev_predictions": [
+      "name the actor who has acted in the film arrival and who has been nominated for the academy award for best supporting actor ?",
+      "who has acted in the film arrival and who has been nominated for the academy award for best supporting actor for the film ` the town ' ?",
+      "name the actor who has acted in the film arrival and who has been nominated for the academy award for best supporting actor for the film ` the town ' ?",
+      "name the actor who has acted in the film arrival and who has been nominated for the academy award for best supporting actor for the film ` the town ' ?"
+    ]
+  },
+  {
+    "id": "5a75f32055429976ec32bcb7",
+    "original_question": "This actor born August 26, 1909 stared in the tv show \" The Cowboys \".",
+    "S_tokenized_question": "this actor S born august 26 , 1909 S stared in the tv show \" the cowboys \" .",
+    "sub_question_1": "this actor born august 26 , 1909 ?",
+    "sub_question_2": "this actor stared in the tv show \" the cowboys \" . ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Jim Davis"
+      ],
+      "sub_question_2_answers": [
+        "Jim Davis"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9996540638070416,
+        1.0,
+        0,
+        "This actor born August 26, 1909 stared in the tv show \" The Cowboys \". (bridge) jim davis"
+      ],
+      [
+        0.9951983637312437,
+        1.0,
+        1,
+        "This actor born August 26, 1909 stared in the tv show \" The Cowboys \". (intersec) jim davis"
+      ],
+      [
+        0.8108976532450096,
+        0,
+        2,
+        "This actor born August 26, 1909 stared in the tv show \" The Cowboys \". (onehop) robert carradine"
+      ]
+    ],
+    "dev_predictions": [
+      "this actor born august 26 , 1909 ?",
+      "this actor stared in the tv show \" the cowboys \" . ?",
+      "this actor born august 26 , 1909 stared in the tv show \" the cowboys \" .",
+      "this actor born august 26 , 1909 stared in the tv show \" the cowboys \" ."
+    ]
+  },
+  {
+    "id": "5abc091555429965836003f6",
+    "original_question": "Which of Darren Aronofsky's movies is based on a Russian ballet?",
+    "S_tokenized_question": "which S of darren aronofsky 's movies S is based on a russian ballet ?",
+    "sub_question_1": "which of darren aronofsky 's movies ?",
+    "sub_question_2": "which is based on a russian ballet ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Swan Lake"
+      ],
+      "sub_question_2_answers": [
+        "Swan Lake"
+      ]
+    },
+    "class_scores": [
+      [
+        0.046444513328066,
+        1.0,
+        0,
+        "Which of Darren Aronofsky's movies is based on a Russian ballet? (bridge) swan lake"
+      ],
+      [
+        0.21498688501318827,
+        1.0,
+        1,
+        "Which of Darren Aronofsky's movies is based on a Russian ballet? (intersec) swan lake"
+      ],
+      [
+        0.052527298747765155,
+        1.0,
+        2,
+        "Which of Darren Aronofsky's movies is based on a Russian ballet? (onehop) swan lake"
+      ]
+    ],
+    "dev_predictions": [
+      "which of darren aronofsky 's movies ?",
+      "which is based on a russian ballet ?",
+      "which of darren aronofsky 's movies is based on a russian ballet ?",
+      "which of darren aronofsky 's movies is based on a russian ballet ?"
+    ]
+  },
+  {
+    "id": "5a8e296f554299068b959e71",
+    "original_question": "What country does Washington Dulles International Airport and Baltimore–Washington metropolitan area have in common?",
+    "S_tokenized_question": "what country does S washington dulles international airport S and baltimore - washington metropolitan area have in common ?",
+    "sub_question_1": "what country does washington dulles international airport and baltimore - washington metropolitan area ?",
+    "sub_question_2": "what country does have in common ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "United States"
+      ],
+      "sub_question_2_answers": [
+        "United States"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9984788688228189,
+        1.0,
+        0,
+        "What country does Washington Dulles International Airport and Baltimore–Washington metropolitan area have in common? (comparison) united states"
+      ]
+    ],
+    "dev_predictions": [
+      "what country does washington dulles international airport and baltimore - washington metropolitan area ?",
+      "what country does have in common ?",
+      "what country does washington dulles international airport and baltimore - washington metropolitan area have in common ?",
+      "what country does washington dulles international airport and baltimore - washington metropolitan area have in common ?"
+    ]
+  },
+  {
+    "id": "5a7d2ecc5542995ed0d16629",
+    "original_question": "Robbie Tucker plays in what series that follows a group of friends who run an Irish bar?",
+    "S_tokenized_question": "robbie tucker plays in S what series S that follows a group of friends who run an irish bar ?",
+    "sub_question_1": "robbie tucker plays in what series ?",
+    "sub_question_2": "what series follows a group of friends who run an irish bar ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "It's Always Sunny in Philadelphia"
+      ],
+      "sub_question_2_answers": [
+        "It's Always Sunny in Philadelphia"
+      ]
+    },
+    "class_scores": [
+      [
+        3.215573020559934e-05,
+        0,
+        0,
+        "Robbie Tucker plays in what series that follows a group of friends who run an Irish bar? (bridge) the gang"
+      ],
+      [
+        0.9843054096947438,
+        1.0,
+        1,
+        "Robbie Tucker plays in what series that follows a group of friends who run an Irish bar? (intersec) it's always sunny in philadelphia"
+      ],
+      [
+        0.159151902613555,
+        0,
+        2,
+        "Robbie Tucker plays in what series that follows a group of friends who run an Irish bar? (onehop) criminal minds"
+      ]
+    ],
+    "dev_predictions": [
+      "robbie tucker plays in what series ?",
+      "what series follows a group of friends who run an irish bar ?",
+      "robbie tucker plays in what series that follows a group of friends who run an irish bar ?",
+      "robbie tucker plays in what series that follows a group of friends who run an irish bar ?"
+    ]
+  },
+  {
+    "id": "5ae7e8f55542994a481bbe06",
+    "original_question": "Which fictional MI6 agent is a fictional character created by the British journalist and novelist Ian Fleming in 1952?",
+    "S_tokenized_question": "which S fictional mi6 agent S is a fictional character created by the british journalist and novelist ian fleming in 1952 ?",
+    "sub_question_1": "which fictional mi6 agent ?",
+    "sub_question_2": "which is a fictional character created by the british journalist and novelist ian fleming in 1952 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Commander James Bond RN"
+      ],
+      "sub_question_2_answers": [
+        "Commander James Bond RN"
+      ]
+    },
+    "class_scores": [
+      [
+        0.002511658830555294,
+        0,
+        0,
+        "Which fictional MI6 agent is a fictional character created by the British journalist and novelist Ian Fleming in 1952? (bridge) octopussy"
+      ],
+      [
+        0.9965790351334106,
+        0.6666666666666666,
+        1,
+        "Which fictional MI6 agent is a fictional character created by the British journalist and novelist Ian Fleming in 1952? (intersec) james bond"
+      ],
+      [
+        0.007162970108219921,
+        0.6666666666666666,
+        2,
+        "Which fictional MI6 agent is a fictional character created by the British journalist and novelist Ian Fleming in 1952? (onehop) james bond"
+      ]
+    ],
+    "dev_predictions": [
+      "which fictional mi6 agent ?",
+      "which is a fictional character created by the british journalist and novelist ian fleming in 1952 ?",
+      "which fictional mi6 agent is a fictional character created by the british journalist and novelist ian fleming in 1952 ?",
+      "which fictional mi6 agent is a fictional character created by the british journalist and novelist ian fleming in 1952 ?"
+    ]
+  },
+  {
+    "id": "5abadc355542996606241644",
+    "original_question": "Name the 500 year-old-republic that Florentius was a praetorian prefect for. ",
+    "S_tokenized_question": "name the 500 year - old - S republic S that florentius was a praetorian prefect for .",
+    "sub_question_1": "name the 500 year - old - republic ?",
+    "sub_question_2": "name florentius was a praetorian prefect for . ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Roman Empire"
+      ],
+      "sub_question_2_answers": [
+        "Roman Empire"
+      ]
+    },
+    "class_scores": [
+      [
+        0.04824964026825017,
+        0,
+        0,
+        "Name the 500 year-old-republic that Florentius was a praetorian prefect for.  (bridge) julian"
+      ],
+      [
+        0.9997568416908292,
+        1.0,
+        1,
+        "Name the 500 year-old-republic that Florentius was a praetorian prefect for.  (intersec) roman empire"
+      ],
+      [
+        0.9996044183975515,
+        1.0,
+        2,
+        "Name the 500 year-old-republic that Florentius was a praetorian prefect for.  (onehop) roman empire"
+      ]
+    ],
+    "dev_predictions": [
+      "name the 500 year - old - republic ?",
+      "name florentius was a praetorian prefect for . ?",
+      "name the 500 year - old - republic that florentius was a praetorian prefect for .",
+      "name the 500 year - old - republic that florentius was a praetorian prefect for ."
+    ]
+  },
+  {
+    "id": "5ae5ef105542996de7b71a72",
+    "original_question": "What is the seventh book of the Hebrew and Christina bible and also has Quran references to the river drinking experience?",
+    "S_tokenized_question": "what is the seventh book S of the hebrew and christina bible S and also has quran references to the river drinking experience ?",
+    "sub_question_1": "what is the seventh book of the hebrew and christina bible ?",
+    "sub_question_2": "what is also has quran references to the river drinking experience ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Book of Judges"
+      ],
+      "sub_question_2_answers": [
+        "Book of Judges"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9904382662695232,
+        1.0,
+        0,
+        "What is the seventh book of the Hebrew and Christina bible and also has Quran references to the river drinking experience? (bridge) book of judges"
+      ],
+      [
+        0.9960387572005605,
+        1.0,
+        1,
+        "What is the seventh book of the Hebrew and Christina bible and also has Quran references to the river drinking experience? (intersec) book of judges"
+      ],
+      [
+        0.5040405628313418,
+        1.0,
+        2,
+        "What is the seventh book of the Hebrew and Christina bible and also has Quran references to the river drinking experience? (onehop) book of judges"
+      ]
+    ],
+    "dev_predictions": [
+      "what is the seventh book of the hebrew and christina bible ?",
+      "what is also has quran references to the river drinking experience ?",
+      "what is the seventh book of the hebrew and christina bible and also has quran references to the river drinking experience ?",
+      "what is the seventh book of the hebrew and christina bible and also has quran references to the river drinking experience ?"
+    ]
+  },
+  {
+    "id": "5aba9d7955429901930fa85f",
+    "original_question": "Which actor/actress from Overnight Delivery was born in New Orleans?",
+    "S_tokenized_question": "which actor / actress S from overnight delivery S was born in new orleans ?",
+    "sub_question_1": "which actor / actress from overnight delivery ?",
+    "sub_question_2": "which actor / actress was born in new orleans ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Reese Witherspoon"
+      ],
+      "sub_question_2_answers": [
+        "Reese Witherspoon"
+      ]
+    },
+    "class_scores": [
+      [
+        6.652670870862387e-06,
+        0,
+        0,
+        "Which actor/actress from Overnight Delivery was born in New Orleans? (bridge) doreen ketchens"
+      ],
+      [
+        0.9721999283254054,
+        1.0,
+        1,
+        "Which actor/actress from Overnight Delivery was born in New Orleans? (intersec) reese witherspoon"
+      ],
+      [
+        0.0009299314693154634,
+        1.0,
+        2,
+        "Which actor/actress from Overnight Delivery was born in New Orleans? (onehop) reese witherspoon"
+      ]
+    ],
+    "dev_predictions": [
+      "which actor / actress from overnight delivery ?",
+      "which actor / actress was born in new orleans ?",
+      "which actor / actress from overnight delivery was born in new orleans ?",
+      "which actor / actress from overnight delivery was born in new orleans ?"
+    ]
+  },
+  {
+    "id": "5a74670855429929fddd840d",
+    "original_question": "Which CNN journalist and two-time Pulitzer winner inspired the Half the Sky Movement?",
+    "S_tokenized_question": "which S cnn journalist and two - time pulitzer winner S inspired the half the sky movement ?",
+    "sub_question_1": "which cnn journalist and two - time pulitzer winner ?",
+    "sub_question_2": "which inspired the half the sky movement ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Nicholas Kristof"
+      ],
+      "sub_question_2_answers": [
+        "Nicholas Kristof"
+      ]
+    },
+    "class_scores": [
+      [
+        2.476747914080348e-06,
+        0,
+        0,
+        "Which CNN journalist and two-time Pulitzer winner inspired the Half the Sky Movement? (bridge) the half the sky movement"
+      ],
+      [
+        0.9887463196392053,
+        0.5714285714285715,
+        1,
+        "Which CNN journalist and two-time Pulitzer winner inspired the Half the Sky Movement? (intersec) nicholas kristof and sheryl wudunn"
+      ],
+      [
+        0.999877656717116,
+        1.0,
+        2,
+        "Which CNN journalist and two-time Pulitzer winner inspired the Half the Sky Movement? (onehop) nicholas kristof"
+      ]
+    ],
+    "dev_predictions": [
+      "which cnn journalist and two - time pulitzer winner ?",
+      "which inspired the half the sky movement ?",
+      "which cnn journalist and two - time pulitzer winner inspired the half the sky movement ?",
+      "which cnn journalist and two - time pulitzer winner inspired the half the sky movement ?"
+    ]
+  },
+  {
+    "id": "5a8c9164554299653c1aa0c1",
+    "original_question": "A Hand Is on the Gate marked the Broadway directorial debut of what American actor who resisted playing stereotypically black roles?",
+    "S_tokenized_question": "a hand is on the gate marked the broadway directorial debut of S what american actor S who resisted playing stereotypically black roles ?",
+    "sub_question_1": "a hand is on the gate marked the broadway directorial debut of what american actor ?",
+    "sub_question_2": "what american actor resisted playing stereotypically black roles ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Roscoe Lee Browne"
+      ],
+      "sub_question_2_answers": [
+        "Roscoe Lee Browne"
+      ]
+    },
+    "class_scores": [
+      [
+        1.1248793850362265e-05,
+        0,
+        0,
+        "A Hand Is on the Gate marked the Broadway directorial debut of what American actor who resisted playing stereotypically black roles? (bridge) he resisted playing stereotypically black roles"
+      ],
+      [
+        0.9999977680833575,
+        1.0,
+        1,
+        "A Hand Is on the Gate marked the Broadway directorial debut of what American actor who resisted playing stereotypically black roles? (intersec) roscoe lee browne"
+      ],
+      [
+        0.9999847223698908,
+        1.0,
+        2,
+        "A Hand Is on the Gate marked the Broadway directorial debut of what American actor who resisted playing stereotypically black roles? (onehop) roscoe lee browne"
+      ]
+    ],
+    "dev_predictions": [
+      "a hand is on the gate marked the broadway directorial debut of what american actor ?",
+      "what american actor resisted playing stereotypically black roles ?",
+      "a hand is on the gate marked the broadway directorial debut of what american actor who resisted playing stereotypically black roles ?",
+      "a hand is on the gate marked the broadway directorial debut of what american actor who resisted playing stereotypically black roles ?"
+    ]
+  },
+  {
+    "id": "5ae5b255554299546bf82f2c",
+    "original_question": "In which state was both Rex Gene Foods and Foodtown located in?",
+    "S_tokenized_question": "in which state was S both rex gene foods S and foodtown located in ?",
+    "sub_question_1": "in which state was both rex gene foods and foodtown ?",
+    "sub_question_2": "in which state was located in ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "New Jersey"
+      ],
+      "sub_question_2_answers": [
+        "New Jersey"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9995285805560896,
+        1.0,
+        0,
+        "In which state was both Rex Gene Foods and Foodtown located in? (bridge) new jersey"
+      ],
+      [
+        0.9999656686739115,
+        1.0,
+        1,
+        "In which state was both Rex Gene Foods and Foodtown located in? (intersec) new jersey"
+      ],
+      [
+        0.9998125523242649,
+        1.0,
+        2,
+        "In which state was both Rex Gene Foods and Foodtown located in? (onehop) new jersey"
+      ]
+    ],
+    "dev_predictions": [
+      "in which state was both rex gene foods and foodtown ?",
+      "in which state was located in ?",
+      "in which state was both rex gene foods and foodtown located in ?",
+      "in which state was both rex gene foods and foodtown located in ?"
+    ]
+  },
+  {
+    "id": "5a7f341655429930675136a0",
+    "original_question": "Alison Castle is the editor of what publication with a connection to the Beatles?",
+    "S_tokenized_question": "alison castle is the editor of S what publication S with a connection to the beatles ?",
+    "sub_question_1": "alison castle is the editor of what publication ?",
+    "sub_question_2": "what publication with a connection to the beatles ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "\"Linda McCartney's Life in Photography\""
+      ],
+      "sub_question_2_answers": [
+        "\"Linda McCartney's Life in Photography\""
+      ]
+    },
+    "class_scores": [
+      [
+        0.0002712968426978889,
+        0,
+        0,
+        "Alison Castle is the editor of what publication with a connection to the Beatles? (bridge) alison castle"
+      ],
+      [
+        0.0011505454782454443,
+        0,
+        1,
+        "Alison Castle is the editor of what publication with a connection to the Beatles? (intersec) taschen"
+      ],
+      [
+        0.024452655673350233,
+        0,
+        2,
+        "Alison Castle is the editor of what publication with a connection to the Beatles? (onehop) saturday night live"
+      ]
+    ],
+    "dev_predictions": [
+      "alison castle is the editor of what publication ?",
+      "what publication with a connection to the beatles ?",
+      "alison castle is the editor of what publication with a connection to the beatles ?",
+      "alison castle is the editor of what publication with a connection to the beatles ?"
+    ]
+  },
+  {
+    "id": "5ab482815542990594ba9c3d",
+    "original_question": "Flowers in the Attick starred which \"Mad Men\" actress?",
+    "S_tokenized_question": "flowers in the attick starred S which S \" mad men \" actress ?",
+    "sub_question_1": "flowers in the attick starred which ?",
+    "sub_question_2": "which \" mad men \" actress ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Kiernan Brennan Shipka"
+      ],
+      "sub_question_2_answers": [
+        "Kiernan Brennan Shipka"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999857281878609,
+        1.0,
+        0,
+        "Flowers in the Attick starred which \"Mad Men\" actress? (bridge) kiernan brennan shipka"
+      ],
+      [
+        0.9938181036189352,
+        1.0,
+        1,
+        "Flowers in the Attick starred which \"Mad Men\" actress? (intersec) kiernan brennan shipka"
+      ],
+      [
+        0.9965132157110248,
+        1.0,
+        2,
+        "Flowers in the Attick starred which \"Mad Men\" actress? (onehop) kiernan brennan shipka"
+      ]
+    ],
+    "dev_predictions": [
+      "flowers in the attick starred which ?",
+      "which \" mad men \" actress ?",
+      "flowers in the attick starred which \" mad men \" actress ?",
+      "flowers in the attick starred which \" mad men \" actress ?"
+    ]
+  },
+  {
+    "id": "5adf35935542993344016c36",
+    "original_question": "Which wrestler, who died in 2009, featured on the wrestling show Starrcade?",
+    "S_tokenized_question": "which wrestler , S who died in 2009 S , featured on the wrestling show starrcade ?",
+    "sub_question_1": "which wrestler died in 2009 ?",
+    "sub_question_2": "which wrestler featured on the wrestling show starrcade ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "\"Dr. Death\" Steve Williams"
+      ],
+      "sub_question_2_answers": [
+        "\"Dr. Death\" Steve Williams"
+      ]
+    },
+    "class_scores": [
+      [
+        0.0003153930053578312,
+        0,
+        0,
+        "Which wrestler, who died in 2009, featured on the wrestling show Starrcade? (bridge) human tornado"
+      ],
+      [
+        6.253972789429018e-05,
+        0,
+        1,
+        "Which wrestler, who died in 2009, featured on the wrestling show Starrcade? (intersec) human tornado"
+      ],
+      [
+        0.9975903312093192,
+        0.3333333333333333,
+        2,
+        "Which wrestler, who died in 2009, featured on the wrestling show Starrcade? (onehop) steven williams"
+      ]
+    ],
+    "dev_predictions": [
+      "which wrestler died in 2009 ?",
+      "which wrestler featured on the wrestling show starrcade ?",
+      "which wrestler , who died in 2009 , featured on the wrestling show starrcade ?",
+      "which wrestler , who died in 2009 , featured on the wrestling show starrcade ?"
+    ]
+  },
+  {
+    "id": "5a7509175542993748c897a3",
+    "original_question": "What group of Elektra Records recording artists are known to be an indie pop band?",
+    "S_tokenized_question": "what S group of elektra records recording artists S are known to be an indie pop band ?",
+    "sub_question_1": "what group of elektra records recording artists ?",
+    "sub_question_2": "what are known to be an indie pop band ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Saint Motel"
+      ],
+      "sub_question_2_answers": [
+        "Saint Motel"
+      ]
+    },
+    "class_scores": [
+      [
+        0.4655728082130234,
+        0,
+        0,
+        "What group of Elektra Records recording artists are known to be an indie pop band? (bridge) fitz and the tantrums"
+      ],
+      [
+        0.4972267882291651,
+        0,
+        1,
+        "What group of Elektra Records recording artists are known to be an indie pop band? (intersec) fitz and the tantrums"
+      ],
+      [
+        0.00013464810657047588,
+        1.0,
+        2,
+        "What group of Elektra Records recording artists are known to be an indie pop band? (onehop) saint motel"
+      ]
+    ],
+    "dev_predictions": [
+      "what group of elektra records recording artists ?",
+      "what are known to be an indie pop band ?",
+      "what group of elektra records recording artists are known to be an indie pop band ?",
+      "what group of elektra records recording artists are known to be an indie pop band ?"
+    ]
+  },
+  {
+    "id": "5ac3c264554299204fd21e37",
+    "original_question": "The Gap band was from what neighbor hood that was known as the black wall street?",
+    "S_tokenized_question": "the gap band was from S what neighbor hood S that was known as the black wall street ?",
+    "sub_question_1": "the gap band was from what neighbor hood ?",
+    "sub_question_2": "what neighbor hood was known as the black wall street ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Greenwood neighborhood in their hometown of Tulsa, Oklahoma"
+      ],
+      "sub_question_2_answers": [
+        "Greenwood neighborhood in their hometown of Tulsa, Oklahoma"
+      ]
+    },
+    "class_scores": [
+      [
+        0.04773529212294453,
+        0.2222222222222222,
+        0,
+        "The Gap band was from what neighbor hood that was known as the black wall street? (bridge) tulsa"
+      ],
+      [
+        0.23711172029476957,
+        0.4,
+        1,
+        "The Gap band was from what neighbor hood that was known as the black wall street? (intersec) tulsa, oklahoma"
+      ],
+      [
+        0.4563474510347262,
+        0.4,
+        2,
+        "The Gap band was from what neighbor hood that was known as the black wall street? (onehop) tulsa, oklahoma"
+      ]
+    ],
+    "dev_predictions": [
+      "the gap band was from what neighbor hood ?",
+      "what neighbor hood was known as the black wall street ?",
+      "the gap band was from what neighbor hood that was known as the black wall street ?",
+      "the gap band was from what neighbor hood that was known as the black wall street ?"
+    ]
+  },
+  {
+    "id": "5ae7a2e255429952e35ea99e",
+    "original_question": "\"You Are\" is a song from which Pearl Jam album dealing with the September 2001 terrorist attacks?",
+    "S_tokenized_question": "\" you are \" is a song from S which pearl jam album S dealing with the september 2001 terrorist attacks ?",
+    "sub_question_1": "\" you are \" is a song from which pearl jam album ?",
+    "sub_question_2": "which pearl jam album dealing with the september 2001 terrorist attacks ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Riot Act"
+      ],
+      "sub_question_2_answers": [
+        "Riot Act"
+      ]
+    },
+    "class_scores": [
+      [
+        0.027492062486972516,
+        0,
+        0,
+        "\"You Are\" is a song from which Pearl Jam album dealing with the September 2001 terrorist attacks? (bridge) pearl jam"
+      ],
+      [
+        0.9999932133612467,
+        1.0,
+        1,
+        "\"You Are\" is a song from which Pearl Jam album dealing with the September 2001 terrorist attacks? (intersec) riot act"
+      ],
+      [
+        0.990070256675291,
+        1.0,
+        2,
+        "\"You Are\" is a song from which Pearl Jam album dealing with the September 2001 terrorist attacks? (onehop) riot act"
+      ]
+    ],
+    "dev_predictions": [
+      "\" you are \" is a song from which pearl jam album ?",
+      "which pearl jam album dealing with the september 2001 terrorist attacks ?",
+      "\" you are \" is a song from which pearl jam album dealing with the september 2001 terrorist attacks ?",
+      "\" you are \" is a song from which pearl jam album dealing with the september 2001 terrorist attacks ?"
+    ]
+  },
+  {
+    "id": "5ae612f3554299546bf83065",
+    "original_question": "Which musician who first became famous in the late 1960s and early 1970s is Inner Secrets  the ninth studio album by",
+    "S_tokenized_question": "which musician S who first became famous in the late 1960s and early 1970s S is inner secrets   the ninth studio album by",
+    "sub_question_1": "which musician first became famous in the late 1960s and early 1970s ?",
+    "sub_question_2": "which musician is inner secrets the ninth studio album by ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Carlos Santana"
+      ],
+      "sub_question_2_answers": [
+        "Carlos Santana"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999947475805242,
+        0.6666666666666666,
+        0,
+        "Which musician who first became famous in the late 1960s and early 1970s is Inner Secrets  the ninth studio album by (bridge) santana"
+      ],
+      [
+        0.9999967210938344,
+        0.6666666666666666,
+        1,
+        "Which musician who first became famous in the late 1960s and early 1970s is Inner Secrets  the ninth studio album by (intersec) santana"
+      ],
+      [
+        0.9996976866177618,
+        0.6666666666666666,
+        2,
+        "Which musician who first became famous in the late 1960s and early 1970s is Inner Secrets  the ninth studio album by (onehop) santana"
+      ]
+    ],
+    "dev_predictions": [
+      "which musician first became famous in the late 1960s and early 1970s ?",
+      "which musician is inner secrets the ninth studio album by ?",
+      "which musician who first became famous in the late 1960s and early 1970s is inner secrets the ninth studio album by",
+      "which musician who first became famous in the late 1960s and early 1970s is inner secrets the ninth studio album by"
+    ]
+  },
+  {
+    "id": "5a716c415542994082a3e827",
+    "original_question": "Which airline partners with Gogo Inflight Internet and opened in 1984?",
+    "S_tokenized_question": "which airline S partners with gogo inflight internet S and opened in 1984 ?",
+    "sub_question_1": "which airline partners with gogo inflight internet ?",
+    "sub_question_2": "which airline partners opened in 1984 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Virgin Atlantic"
+      ],
+      "sub_question_2_answers": [
+        "Virgin Atlantic"
+      ]
+    },
+    "class_scores": [
+      [
+        0.004154474856223951,
+        0,
+        0,
+        "Which airline partners with Gogo Inflight Internet and opened in 1984? (bridge) klm"
+      ],
+      [
+        0.000857404609683838,
+        0,
+        1,
+        "Which airline partners with Gogo Inflight Internet and opened in 1984? (intersec) air canada, alaska airlines"
+      ],
+      [
+        0.9999723772925999,
+        1.0,
+        2,
+        "Which airline partners with Gogo Inflight Internet and opened in 1984? (onehop) virgin atlantic"
+      ]
+    ],
+    "dev_predictions": [
+      "which airline partners with gogo inflight internet ?",
+      "which airline partners opened in 1984 ?",
+      "which airline partners with gogo inflight internet and opened in 1984 ?",
+      "which airline partners with gogo inflight internet and opened in 1984 ?"
+    ]
+  },
+  {
+    "id": "5adcfe7f5542992c1e3a24f1",
+    "original_question": " La Yesca Dam was inaugurated by which Mexican politiician and President of the country from 2006-2012?",
+    "S_tokenized_question": "  la yesca dam was inaugurated by S which mexican politiician S and president of the country from 2006 - 2012 ?",
+    "sub_question_1": "la yesca dam was inaugurated by which mexican politiician ?",
+    "sub_question_2": "which mexican politiician president of the country from 2006 - 2012 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Felipe de Jesús Calderón Hinojosa"
+      ],
+      "sub_question_2_answers": [
+        "Felipe de Jesús Calderón Hinojosa"
+      ]
+    },
+    "class_scores": [
+      [
+        9.500491854891618e-06,
+        0,
+        0,
+        " La Yesca Dam was inaugurated by which Mexican politiician and President of the country from 2006-2012? (bridge) president of mexico"
+      ],
+      [
+        0.9999895005895061,
+        0.5,
+        1,
+        " La Yesca Dam was inaugurated by which Mexican politiician and President of the country from 2006-2012? (intersec) president felipe calderón"
+      ],
+      [
+        0.9999813415553224,
+        0.888888888888889,
+        2,
+        " La Yesca Dam was inaugurated by which Mexican politiician and President of the country from 2006-2012? (onehop) felipe de jesús calderón"
+      ]
+    ],
+    "dev_predictions": [
+      "la yesca dam was inaugurated by which mexican politiician ?",
+      "which mexican politiician president of the country from 2006 - 2012 ?",
+      "la yesca dam was inaugurated by which mexican politiician and president of the country from 2006 - 2012 ?",
+      "la yesca dam was inaugurated by which mexican politiician and president of the country from 2006 - 2012 ?"
+    ]
+  },
+  {
+    "id": "5ac0714f554299294b218fe1",
+    "original_question": "Robert Allen \"Bob\" Case is best known for inspiring the naming of which initial area of low pressure developed off Atlantic Canada on October 29? ",
+    "S_tokenized_question": "robert allen \" bob \" case is best known for inspiring the naming of S which initial area S of low pressure developed off atlantic canada on october 29 ?",
+    "sub_question_1": "robert allen \" bob \" case is best known for inspiring the naming of which ?",
+    "sub_question_2": "which initial area of low pressure developed off atlantic canada on october 29 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "1991 Perfect Storm"
+      ],
+      "sub_question_2_answers": [
+        "1991 Perfect Storm"
+      ]
+    },
+    "class_scores": [
+      [
+        5.675879508707285e-08,
+        0,
+        0,
+        "Robert Allen \"Bob\" Case is best known for inspiring the naming of which initial area of low pressure developed off Atlantic Canada on October 29?  (bridge) area of low pressure"
+      ],
+      [
+        0.9999997452419096,
+        1.0,
+        1,
+        "Robert Allen \"Bob\" Case is best known for inspiring the naming of which initial area of low pressure developed off Atlantic Canada on October 29?  (intersec) 1991 perfect storm"
+      ],
+      [
+        0.9999840037908497,
+        0.8,
+        2,
+        "Robert Allen \"Bob\" Case is best known for inspiring the naming of which initial area of low pressure developed off Atlantic Canada on October 29?  (onehop) the perfect storm"
+      ]
+    ],
+    "dev_predictions": [
+      "robert allen \" bob \" case is best known for inspiring the naming of which ?",
+      "which initial area of low pressure developed off atlantic canada on october 29 ?",
+      "robert allen \" bob \" case is best known for inspiring the naming of which initial area of low pressure developed off atlantic canada on october 29 ?",
+      "robert allen \" bob \" case is best known for inspiring the naming of which initial area of low pressure developed off atlantic canada on october 29 ?"
+    ]
+  },
+  {
+    "id": "5ab6c94c554299710c8d1f5e",
+    "original_question": "What New York City–based hip-hop musical group consists of rappers including Darryl Hill?",
+    "S_tokenized_question": "what S new york city - based hip - hop musical group S consists of rappers including darryl hill ?",
+    "sub_question_1": "what new york city - based hip - hop musical group ?",
+    "sub_question_2": "what consists of rappers including darryl hill ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "The Wu-Tang Clan"
+      ],
+      "sub_question_2_answers": [
+        "The Wu-Tang Clan"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999844677352616,
+        1.0,
+        0,
+        "What New York City–based hip-hop musical group consists of rappers including Darryl Hill? (bridge) wu-tang clan"
+      ],
+      [
+        0.9999772423961247,
+        1.0,
+        1,
+        "What New York City–based hip-hop musical group consists of rappers including Darryl Hill? (intersec) the wu-tang clan"
+      ],
+      [
+        0.999966752577759,
+        1.0,
+        2,
+        "What New York City–based hip-hop musical group consists of rappers including Darryl Hill? (onehop) the wu-tang clan"
+      ]
+    ],
+    "dev_predictions": [
+      "what new york city - based hip - hop musical group ?",
+      "what consists of rappers including darryl hill ?",
+      "what new york city - based hip - hop musical group consists of rappers including darryl hill ?",
+      "what new york city - based hip - hop musical group consists of rappers including darryl hill ?"
+    ]
+  },
+  {
+    "id": "5a79fe3b5542994f819ef119",
+    "original_question": "What is the financial group which created the Sporting Portugal Fund?",
+    "S_tokenized_question": "what S is the financial group S which created the sporting portugal fund ?",
+    "sub_question_1": "what is the financial group created the sporting portugal fund ?",
+    "sub_question_2": "what is the financial group ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Espírito Santo Financial Group"
+      ],
+      "sub_question_2_answers": [
+        "Espírito Santo Financial Group"
+      ]
+    },
+    "class_scores": [
+      [
+        4.817019158655392e-05,
+        0,
+        0,
+        "What is the financial group which created the Sporting Portugal Fund? (bridge) sporting portugal fund"
+      ],
+      [
+        0.9572556728516903,
+        1.0,
+        1,
+        "What is the financial group which created the Sporting Portugal Fund? (intersec) espírito santo financial group"
+      ],
+      [
+        0.9146089202012001,
+        1.0,
+        2,
+        "What is the financial group which created the Sporting Portugal Fund? (onehop) espírito santo financial group"
+      ]
+    ],
+    "dev_predictions": [
+      "what is the financial group created the sporting portugal fund ?",
+      "what is the financial group ?",
+      "what is the financial group which created the sporting portugal fund ?",
+      "what is the financial group which created the sporting portugal fund ?"
+    ]
+  },
+  {
+    "id": "5a74e8a25542996c70cfae37",
+    "original_question": "Which American musician, principally known for his work as guitarist, vocalist and songwriter released the Voice Of Reason album?",
+    "S_tokenized_question": "which american musician , S principally known for his work as guitarist , vocalist and songwriter S released the voice of reason album ?",
+    "sub_question_1": "which american musician principally known for his work as guitarist , vocalist and songwriter ?",
+    "sub_question_2": "which american musician released the voice of reason album ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Robert Arthur Mould"
+      ],
+      "sub_question_2_answers": [
+        "Robert Arthur Mould"
+      ]
+    },
+    "class_scores": [
+      [
+        0.0004014519591910355,
+        0,
+        0,
+        "Which American musician, principally known for his work as guitarist, vocalist and songwriter released the Voice Of Reason album? (bridge) voice of reason"
+      ],
+      [
+        4.1757666379261525e-05,
+        0,
+        1,
+        "Which American musician, principally known for his work as guitarist, vocalist and songwriter released the Voice Of Reason album? (intersec) zebedy colt"
+      ],
+      [
+        0.9999218874780667,
+        1.0,
+        2,
+        "Which American musician, principally known for his work as guitarist, vocalist and songwriter released the Voice Of Reason album? (onehop) robert arthur mould"
+      ]
+    ],
+    "dev_predictions": [
+      "which american musician principally known for his work as guitarist , vocalist and songwriter ?",
+      "which american musician released the voice of reason album ?",
+      "which american musician , principally known for his work as guitarist , vocalist and songwriter released the voice of reason album ?",
+      "which american musician , principally known for his work as guitarist , vocalist and songwriter released the voice of reason album ?"
+    ]
+  },
+  {
+    "id": "5ab6973f554299110f219a25",
+    "original_question": "What monthly magazine, published by ASIS International, includes articles on topics of computer security?",
+    "S_tokenized_question": "what monthly magazine , S published by asis international S , includes articles on topics of computer security ?",
+    "sub_question_1": "what monthly magazine published by asis international ?",
+    "sub_question_2": "what monthly magazine includes articles on topics of computer security ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Security Management is the monthly magazine of ASIS International"
+      ],
+      "sub_question_2_answers": [
+        "Security Management is the monthly magazine of ASIS International"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9538527098415074,
+        0.4,
+        0,
+        "What monthly magazine, published by ASIS International, includes articles on topics of computer security? (bridge) security management"
+      ],
+      [
+        0.9999830242934914,
+        0.4,
+        1,
+        "What monthly magazine, published by ASIS International, includes articles on topics of computer security? (intersec) security management"
+      ],
+      [
+        0.9999833180937963,
+        0.4,
+        2,
+        "What monthly magazine, published by ASIS International, includes articles on topics of computer security? (onehop) security management"
+      ]
+    ],
+    "dev_predictions": [
+      "what monthly magazine published by asis international ?",
+      "what monthly magazine includes articles on topics of computer security ?",
+      "what monthly magazine , published by asis international , includes articles on topics of computer security ?",
+      "what monthly magazine , published by asis international , includes articles on topics of computer security ?"
+    ]
+  },
+  {
+    "id": "5a77d25555429949eeb29f6c",
+    "original_question": "Which 2017 American 3D film was written by Cinco Paul and Ken Daurio?",
+    "S_tokenized_question": "which S 2017 american 3d film S was written by cinco paul and ken daurio ?",
+    "sub_question_1": "which 2017 american 3d film ?",
+    "sub_question_2": "which was written by cinco paul and ken daurio ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Despicable Me 3"
+      ],
+      "sub_question_2_answers": [
+        "Despicable Me 3"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9317097862308056,
+        1.0,
+        0,
+        "Which 2017 American 3D film was written by Cinco Paul and Ken Daurio? (bridge) despicable me 3"
+      ],
+      [
+        0.5968022403281437,
+        1.0,
+        1,
+        "Which 2017 American 3D film was written by Cinco Paul and Ken Daurio? (intersec) despicable me 3"
+      ],
+      [
+        0.5127902240935138,
+        1.0,
+        2,
+        "Which 2017 American 3D film was written by Cinco Paul and Ken Daurio? (onehop) despicable me 3"
+      ]
+    ],
+    "dev_predictions": [
+      "which 2017 american 3d film ?",
+      "which was written by cinco paul and ken daurio ?",
+      "which 2017 american 3d film was written by cinco paul and ken daurio ?",
+      "which 2017 american 3d film was written by cinco paul and ken daurio ?"
+    ]
+  },
+  {
+    "id": "5a79178d554299029c4b5ef9",
+    "original_question": "Which member of the music group Guy spearheaded the fusion genre New Jack Swing with Bernard Belle in the 1980's? ",
+    "S_tokenized_question": "which S member of the music group guy S spearheaded the fusion genre new jack swing with bernard belle in the 1980 's ?",
+    "sub_question_1": "which member of the music group guy ?",
+    "sub_question_2": "which spearheaded the fusion genre new jack swing with bernard belle in the 1980 's ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Teddy Riley"
+      ],
+      "sub_question_2_answers": [
+        "Teddy Riley"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999373203522947,
+        1.0,
+        0,
+        "Which member of the music group Guy spearheaded the fusion genre New Jack Swing with Bernard Belle in the 1980's?  (bridge) teddy riley"
+      ],
+      [
+        0.06377946172042735,
+        0,
+        1,
+        "Which member of the music group Guy spearheaded the fusion genre New Jack Swing with Bernard Belle in the 1980's?  (intersec) aaron hall"
+      ],
+      [
+        0.8892127719523578,
+        1.0,
+        2,
+        "Which member of the music group Guy spearheaded the fusion genre New Jack Swing with Bernard Belle in the 1980's?  (onehop) teddy riley"
+      ]
+    ],
+    "dev_predictions": [
+      "which member of the music group guy ?",
+      "which spearheaded the fusion genre new jack swing with bernard belle in the 1980 's ?",
+      "which member of the music group guy spearheaded the fusion genre new jack swing with bernard belle in the 1980 's ?",
+      "which member of the music group guy spearheaded the fusion genre new jack swing with bernard belle in the 1980 's ?"
+    ]
+  },
+  {
+    "id": "5ae034bd55429925eb1afc2a",
+    "original_question": "Which  American politician and lawyer contested in San Francisco mayoral election, 2003",
+    "S_tokenized_question": "which   S american politician and lawyer S contested in san francisco mayoral election , 2003",
+    "sub_question_1": "which american politician and lawyer ?",
+    "sub_question_2": "which contested in san francisco mayoral election , 2003 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Matthew Edward"
+      ],
+      "sub_question_2_answers": [
+        "Matthew Edward"
+      ]
+    },
+    "class_scores": [
+      [
+        0.0002937681825421836,
+        0,
+        0,
+        "Which  American politician and lawyer contested in San Francisco mayoral election, 2003 (bridge) willie brown"
+      ],
+      [
+        0.0003507566162914158,
+        0,
+        1,
+        "Which  American politician and lawyer contested in San Francisco mayoral election, 2003 (intersec) gavin newsom"
+      ],
+      [
+        0.00184037433747349,
+        0,
+        2,
+        "Which  American politician and lawyer contested in San Francisco mayoral election, 2003 (onehop) willie brown"
+      ]
+    ],
+    "dev_predictions": [
+      "which american politician and lawyer ?",
+      "which contested in san francisco mayoral election , 2003 ?",
+      "which american politician and lawyer contested in san francisco mayoral election , 2003",
+      "which american politician and lawyer contested in san francisco mayoral election , 2003"
+    ]
+  },
+  {
+    "id": "5a793b5b55429970f5fffe82",
+    "original_question": "What is the country of origin of the film Dui Purush and the music director Pankaj Mullick",
+    "S_tokenized_question": "what is the country of S origin of the film dui purush S and the music director pankaj mullick",
+    "sub_question_1": "what is the country of origin of the film dui purush ?",
+    "sub_question_2": "what is the music director pankaj mullick ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Bengali"
+      ],
+      "sub_question_2_answers": [
+        "Bengali"
+      ]
+    },
+    "class_scores": [
+      [
+        0.993422043761295,
+        0,
+        0,
+        "What is the country of origin of the film Dui Purush and the music director Pankaj Mullick (bridge) indian"
+      ],
+      [
+        0.6442823932168749,
+        0.6666666666666666,
+        1,
+        "What is the country of origin of the film Dui Purush and the music director Pankaj Mullick (intersec) bengali indian"
+      ],
+      [
+        0.2569822608160712,
+        0,
+        2,
+        "What is the country of origin of the film Dui Purush and the music director Pankaj Mullick (onehop) indian"
+      ]
+    ],
+    "dev_predictions": [
+      "what is the country of origin of the film dui purush ?",
+      "what is the music director pankaj mullick ?",
+      "what is the country of origin of the film dui purush and the music director pankaj mullick",
+      "what is the country of origin of the film dui purush and the music director pankaj mullick"
+    ]
+  },
+  {
+    "id": "5a8911dd554299515336129d",
+    "original_question": "The Un-Americans contained which wrestler who also went by what TNA Wrestling name?",
+    "S_tokenized_question": "the un - americans contained S which wrestler S who also went by what tna wrestling name ?",
+    "sub_question_1": "the un - americans contained which wrestler ?",
+    "sub_question_2": "which wrestler also went by what tna wrestling name ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Andrew Martin"
+      ],
+      "sub_question_2_answers": [
+        "Andrew Martin"
+      ]
+    },
+    "class_scores": [
+      [
+        0.00014690784034664196,
+        0,
+        0,
+        "The Un-Americans contained which wrestler who also went by what TNA Wrestling name? (bridge) the un-americans"
+      ],
+      [
+        0.4042345884740955,
+        0,
+        1,
+        "The Un-Americans contained which wrestler who also went by what TNA Wrestling name? (intersec) caleb konley"
+      ],
+      [
+        0.7183274733154982,
+        0,
+        2,
+        "The Un-Americans contained which wrestler who also went by what TNA Wrestling name? (onehop) lance storm"
+      ]
+    ],
+    "dev_predictions": [
+      "the un - americans contained which wrestler ?",
+      "which wrestler also went by what tna wrestling name ?",
+      "the un - americans contained which wrestler who also went by what tna wrestling name ?",
+      "the un - americans contained which wrestler who also went by what tna wrestling name ?"
+    ]
+  },
+  {
+    "id": "5a8f8c6d5542997ba9cb32b1",
+    "original_question": "What is the name of this South Asian island country, located in the Indian Ocean for which Ahmed Abdulla is a professional footballer?",
+    "S_tokenized_question": "what is the name of this south asian island country , S located in the indian ocean S for which ahmed abdulla is a professional footballer ?",
+    "sub_question_1": "what is the name of this south asian island country located in the indian ocean ?",
+    "sub_question_2": "what is the name of this south asian island country for which ahmed abdulla is a professional footballer ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Maldives"
+      ],
+      "sub_question_2_answers": [
+        "Maldives"
+      ]
+    },
+    "class_scores": [
+      [
+        0.06000932697618887,
+        0.5,
+        0,
+        "What is the name of this South Asian island country, located in the Indian Ocean for which Ahmed Abdulla is a professional footballer? (bridge) republic of maldives"
+      ],
+      [
+        0.999993923371826,
+        1.0,
+        1,
+        "What is the name of this South Asian island country, located in the Indian Ocean for which Ahmed Abdulla is a professional footballer? (intersec) maldives"
+      ],
+      [
+        0.9999715639512502,
+        1.0,
+        2,
+        "What is the name of this South Asian island country, located in the Indian Ocean for which Ahmed Abdulla is a professional footballer? (onehop) maldives"
+      ]
+    ],
+    "dev_predictions": [
+      "what is the name of this south asian island country located in the indian ocean ?",
+      "what is the name of this south asian island country for which ahmed abdulla is a professional footballer ?",
+      "what is the name of this south asian island country , located in the indian ocean for which ahmed abdulla is a professional footballer ?",
+      "what is the name of this south asian island country , located in the indian ocean for which ahmed abdulla is a professional footballer ?"
+    ]
+  },
+  {
+    "id": "5a8b6a5155429949d91db5a3",
+    "original_question": "During the Miss USA 2015, Olivia Jordan of Oklahoma was crowned by which American television host, model, taekwondo coach, and beauty queen who won Miss USA 2014?",
+    "S_tokenized_question": "during the miss usa 2015 , olivia jordan of oklahoma was crowned by S which american television host , model , taekwondo coach , and beauty queen S who won miss usa 2014 ?",
+    "sub_question_1": "during the miss usa 2015 , olivia jordan of oklahoma was crowned by which american television host , model , taekwondo coach , and beauty queen ?",
+    "sub_question_2": "which american television host , model , taekwondo coach , and beauty queen won miss usa 2014 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Nia Sanchez"
+      ],
+      "sub_question_2_answers": [
+        "Nia Sanchez"
+      ]
+    },
+    "class_scores": [
+      [
+        0.0002396337380526137,
+        0,
+        0,
+        "During the Miss USA 2015, Olivia Jordan of Oklahoma was crowned by which American television host, model, taekwondo coach, and beauty queen who won Miss USA 2014? (bridge) madison gesiotto"
+      ],
+      [
+        0.999973920107394,
+        0.8,
+        1,
+        "During the Miss USA 2015, Olivia Jordan of Oklahoma was crowned by which American television host, model, taekwondo coach, and beauty queen who won Miss USA 2014? (intersec) nia temple sanchez"
+      ],
+      [
+        0.9999788080808832,
+        0.8,
+        2,
+        "During the Miss USA 2015, Olivia Jordan of Oklahoma was crowned by which American television host, model, taekwondo coach, and beauty queen who won Miss USA 2014? (onehop) nia temple sanchez"
+      ]
+    ],
+    "dev_predictions": [
+      "during the miss usa 2015 , olivia jordan of oklahoma was crowned by which american television host , model , taekwondo coach , and beauty queen ?",
+      "which american television host , model , taekwondo coach , and beauty queen won miss usa 2014 ?",
+      "during the miss usa 2015 , olivia jordan of oklahoma was crowned by which american television host , model , taekwondo coach , and beauty queen who won miss usa 2014 ?",
+      "during the miss usa 2015 , olivia jordan of oklahoma was crowned by which american television host , model , taekwondo coach , and beauty queen who won miss usa 2014 ?"
+    ]
+  },
+  {
+    "id": "5a891e1e5542993b751ca913",
+    "original_question": "Who was a grandson of Aurelia Plath and was a fisheries biologist?",
+    "S_tokenized_question": "who S was a grandson of aurelia plath S and was a fisheries biologist ?",
+    "sub_question_1": "who was a grandson of aurelia plath ?",
+    "sub_question_2": "who was a fisheries biologist ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Nicholas Farrar Hughes"
+      ],
+      "sub_question_2_answers": [
+        "Nicholas Farrar Hughes"
+      ]
+    },
+    "class_scores": [
+      [
+        0.00031279730920540365,
+        0,
+        0,
+        "Who was a grandson of Aurelia Plath and was a fisheries biologist? (bridge) kamakichi kishinouye"
+      ],
+      [
+        0.9999211184265991,
+        1.0,
+        1,
+        "Who was a grandson of Aurelia Plath and was a fisheries biologist? (intersec) nicholas farrar hughes"
+      ],
+      [
+        0.9848483595337955,
+        1.0,
+        2,
+        "Who was a grandson of Aurelia Plath and was a fisheries biologist? (onehop) nicholas farrar hughes"
+      ]
+    ],
+    "dev_predictions": [
+      "who was a grandson of aurelia plath ?",
+      "who was a fisheries biologist ?",
+      "who was a grandson of aurelia plath and was a fisheries biologist ?",
+      "who was a grandson of aurelia plath and was a fisheries biologist ?"
+    ]
+  },
+  {
+    "id": "5add3e2b5542997545bbbcf5",
+    "original_question": "Who directed both Last Days and Point Break?",
+    "S_tokenized_question": "who directed S both last days S and point break ?",
+    "sub_question_1": "who directed both ?",
+    "sub_question_2": "who directed last days and point break ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Kathryn Bigelow"
+      ],
+      "sub_question_2_answers": [
+        "Kathryn Bigelow"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9998408693692551,
+        1.0,
+        0,
+        "Who directed both Last Days and Point Break? (bridge) kathryn bigelow"
+      ],
+      [
+        0.9845946479832093,
+        1.0,
+        1,
+        "Who directed both Last Days and Point Break? (intersec) kathryn bigelow"
+      ],
+      [
+        0.9957281740475138,
+        1.0,
+        2,
+        "Who directed both Last Days and Point Break? (onehop) kathryn bigelow"
+      ]
+    ],
+    "dev_predictions": [
+      "who directed both ?",
+      "who directed last days and point break ?",
+      "who directed both last days and point break ?",
+      "who directed both last days and point break ?"
+    ]
+  },
+  {
+    "id": "5adf6b405542992d7e9f9341",
+    "original_question": "Which contributor to Fear: 13 Stories of Suspense and Horror was born on March 15, 1953 ?",
+    "S_tokenized_question": "which contributor S to fear : 13 stories of suspense and horror S was born on march 15 , 1953 ?",
+    "sub_question_1": "which contributor to fear : 13 stories of suspense and horror ?",
+    "sub_question_2": "which was born on march 15 , 1953 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Heather Graham"
+      ],
+      "sub_question_2_answers": [
+        "Heather Graham"
+      ]
+    },
+    "class_scores": [
+      [
+        0.1395384987815012,
+        0.8,
+        0,
+        "Which contributor to Fear: 13 Stories of Suspense and Horror was born on March 15, 1953 ? (bridge) heather graham pozzessere"
+      ],
+      [
+        0.9999932064583743,
+        1.0,
+        1,
+        "Which contributor to Fear: 13 Stories of Suspense and Horror was born on March 15, 1953 ? (intersec) heather graham"
+      ],
+      [
+        0.0021989216586180064,
+        0,
+        2,
+        "Which contributor to Fear: 13 Stories of Suspense and Horror was born on March 15, 1953 ? (onehop) meg cabot"
+      ]
+    ],
+    "dev_predictions": [
+      "which contributor to fear : 13 stories of suspense and horror ?",
+      "which was born on march 15 , 1953 ?",
+      "which contributor to fear : 13 stories of suspense and horror was born on march 15 , 1953 ?",
+      "which contributor to fear : 13 stories of suspense and horror was born on march 15 , 1953 ?"
+    ]
+  },
+  {
+    "id": "5ae1f70c5542997f29b3c1c5",
+    "original_question": "My Sentimental Friend was performed by which English beat rock band?",
+    "S_tokenized_question": "my sentimental friend was performed by S which S english beat rock band ?",
+    "sub_question_1": "my sentimental friend was performed by which ?",
+    "sub_question_2": "which english beat rock band ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Herman's Hermits"
+      ],
+      "sub_question_2_answers": [
+        "Herman's Hermits"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999949084465082,
+        1.0,
+        0,
+        "My Sentimental Friend was performed by which English beat rock band? (bridge) herman's hermits"
+      ],
+      [
+        0.9999929757401953,
+        1.0,
+        1,
+        "My Sentimental Friend was performed by which English beat rock band? (intersec) herman's hermits"
+      ],
+      [
+        0.9999925763693037,
+        1.0,
+        2,
+        "My Sentimental Friend was performed by which English beat rock band? (onehop) the herman's hermits"
+      ]
+    ],
+    "dev_predictions": [
+      "my sentimental friend was performed by which ?",
+      "which english beat rock band ?",
+      "my sentimental friend was performed by which english beat rock band ?",
+      "my sentimental friend was performed by which english beat rock band ?"
+    ]
+  },
+  {
+    "id": "5a83b01c5542996488c2e489",
+    "original_question": "What Argentinian retired defensive midfielder, and current manager of C.D. Guadalajara, was traded to Parma alongside Sérgio Conçeicão at the end of the 1999–2000 season? ",
+    "S_tokenized_question": "what argentinian S retired defensive midfielder , and current manager of c.d. guadalajara S , was traded to parma alongside sérgio conçeicão at the end of the 1999 - 2000 season ?",
+    "sub_question_1": "what argentinian retired defensive midfielder , and current manager of c.d. guadalajara ?",
+    "sub_question_2": "what was traded to parma alongside sérgio conçeicão at the end of the 1999 - 2000 season ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Matías Jesús Almeyda"
+      ],
+      "sub_question_2_answers": [
+        "Matías Jesús Almeyda"
+      ]
+    },
+    "class_scores": [
+      [
+        0.8476938625251962,
+        0,
+        0,
+        "What Argentinian retired defensive midfielder, and current manager of C.D. Guadalajara, was traded to Parma alongside Sérgio Conçeicão at the end of the 1999–2000 season?  (bridge) hernán crespo"
+      ],
+      [
+        0.7700305043468112,
+        1.0,
+        1,
+        "What Argentinian retired defensive midfielder, and current manager of C.D. Guadalajara, was traded to Parma alongside Sérgio Conçeicão at the end of the 1999–2000 season?  (intersec) matías jesús almeyda"
+      ],
+      [
+        0.023672374994017406,
+        0.8,
+        2,
+        "What Argentinian retired defensive midfielder, and current manager of C.D. Guadalajara, was traded to Parma alongside Sérgio Conçeicão at the end of the 1999–2000 season?  (onehop) matías almeyda"
+      ]
+    ],
+    "dev_predictions": [
+      "what argentinian retired defensive midfielder , and current manager of c.d. guadalajara ?",
+      "what was traded to parma alongside sérgio conçeicão at the end of the 1999 - 2000 season ?",
+      "what argentinian retired defensive midfielder , and current manager of c.d. guadalajara , was traded to parma alongside sérgio conçeicão at the end of the 1999 - 2000 season ?",
+      "what argentinian retired defensive midfielder , and current manager of c.d. guadalajara , was traded to parma alongside sérgio conçeicão at the end of the 1999 - 2000 season ?"
+    ]
+  },
+  {
+    "id": "5ae49bb755429970de88d9d7",
+    "original_question": "Fash Mosque is 4.5 km away from which mosque originally built by Muhammad?",
+    "S_tokenized_question": "fash mosque is 4.5 km away from S which mosque S originally built by muhammad ?",
+    "sub_question_1": "fash mosque is 4.5 km away from which mosque ?",
+    "sub_question_2": "which mosque originally built by muhammad ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Al-Masjid an-Nabawī"
+      ],
+      "sub_question_2_answers": [
+        "Al-Masjid an-Nabawī"
+      ]
+    },
+    "class_scores": [
+      [
+        0.004021154516412606,
+        0,
+        0,
+        "Fash Mosque is 4.5 km away from which mosque originally built by Muhammad? (bridge) damerdash mosque"
+      ],
+      [
+        0.9900156426971096,
+        0.6666666666666666,
+        1,
+        "Fash Mosque is 4.5 km away from which mosque originally built by Muhammad? (intersec) al-masjid"
+      ],
+      [
+        0.7075999724243651,
+        0.5,
+        2,
+        "Fash Mosque is 4.5 km away from which mosque originally built by Muhammad? (onehop) al-masjid an-nabawi"
+      ]
+    ],
+    "dev_predictions": [
+      "fash mosque is 4.5 km away from which mosque ?",
+      "which mosque originally built by muhammad ?",
+      "fash mosque is 4.5 km away from which mosque originally built by muhammad ?",
+      "fash mosque is 4.5 km away from which mosque originally built by muhammad ?"
+    ]
+  },
+  {
+    "id": "5abd0553554299700f9d7963",
+    "original_question": "Archie Norman will succeed Robert Swannell as chairman of what British multinational retailer that is headquartered in the city of Westminster, London?",
+    "S_tokenized_question": "archie norman will succeed robert swannell as chairman of S what british multinational retailer S that is headquartered in the city of westminster , london ?",
+    "sub_question_1": "archie norman will succeed robert swannell as chairman of what british multinational retailer ?",
+    "sub_question_2": "what british multinational retailer is headquartered in the city of westminster , london ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Marks and Spencer plc"
+      ],
+      "sub_question_2_answers": [
+        "Marks and Spencer plc"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999602052892754,
+        0.8571428571428571,
+        0,
+        "Archie Norman will succeed Robert Swannell as chairman of what British multinational retailer that is headquartered in the city of Westminster, London? (bridge) marks and spencer"
+      ],
+      [
+        0.9934371794544057,
+        0.4,
+        1,
+        "Archie Norman will succeed Robert Swannell as chairman of what British multinational retailer that is headquartered in the city of Westminster, London? (intersec) spencer"
+      ],
+      [
+        0.9999414380072801,
+        0.6666666666666666,
+        2,
+        "Archie Norman will succeed Robert Swannell as chairman of what British multinational retailer that is headquartered in the city of Westminster, London? (onehop) marks & spencer"
+      ]
+    ],
+    "dev_predictions": [
+      "archie norman will succeed robert swannell as chairman of what british multinational retailer ?",
+      "what british multinational retailer is headquartered in the city of westminster , london ?",
+      "archie norman will succeed robert swannell as chairman of what british multinational retailer that is headquartered in the city of westminster , london ?",
+      "archie norman will succeed robert swannell as chairman of what british multinational retailer that is headquartered in the city of westminster , london ?"
+    ]
+  },
+  {
+    "id": "5a8a0ed55542992e4fca84e8",
+    "original_question": "Charles Hurt is currently the opinion editor of \"The Washington Times\", Fox News contributor, Breitbart News contributor, and editor of which politically conservative American news aggregation website?",
+    "S_tokenized_question": "charles hurt is currently the opinion editor of \" the washington times \" , fox news contributor , breitbart news contributor , and editor of S which S politically conservative american news aggregation website ?",
+    "sub_question_1": "charles hurt is currently the opinion editor of \" the washington times \" , fox news contributor , breitbart news contributor , and editor of which ?",
+    "sub_question_2": "which politically conservative american news aggregation website ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Drudge Report"
+      ],
+      "sub_question_2_answers": [
+        "Drudge Report"
+      ]
+    },
+    "class_scores": [
+      [
+        0.05061281535405534,
+        1.0,
+        0,
+        "Charles Hurt is currently the opinion editor of \"The Washington Times\", Fox News contributor, Breitbart News contributor, and editor of which politically conservative American news aggregation website? (bridge) the drudge report"
+      ],
+      [
+        0.07577853429662496,
+        1.0,
+        1,
+        "Charles Hurt is currently the opinion editor of \"The Washington Times\", Fox News contributor, Breitbart News contributor, and editor of which politically conservative American news aggregation website? (intersec) the drudge report"
+      ],
+      [
+        0.9998151455647558,
+        0,
+        2,
+        "Charles Hurt is currently the opinion editor of \"The Washington Times\", Fox News contributor, Breitbart News contributor, and editor of which politically conservative American news aggregation website? (onehop) worldnetdaily"
+      ]
+    ],
+    "dev_predictions": [
+      "charles hurt is currently the opinion editor of \" the washington times \" , fox news contributor , breitbart news contributor , and editor of which ?",
+      "which politically conservative american news aggregation website ?",
+      "charles hurt is currently the opinion editor of \" the washington times \" , fox news contributor , breitbart news contributor , and editor of which politically conservative american news aggregation website ?",
+      "charles hurt is currently the opinion editor of \" the washington times \" , fox news contributor , breitbart news contributor , and editor of which politically conservative american news aggregation website ?"
+    ]
+  },
+  {
+    "id": "5ab4396555429942dd415eed",
+    "original_question": "What Kenya-based company owns the Tusker beer brand?",
+    "S_tokenized_question": "what S kenya - based company S owns the tusker beer brand ?",
+    "sub_question_1": "what kenya - based company ?",
+    "sub_question_2": "what owns the tusker beer brand ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "East African Breweries Limited"
+      ],
+      "sub_question_2_answers": [
+        "East African Breweries Limited"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9997721431760108,
+        0.8571428571428571,
+        0,
+        "What Kenya-based company owns the Tusker beer brand? (bridge) east african breweries"
+      ],
+      [
+        0.9999971538779361,
+        0.8571428571428571,
+        1,
+        "What Kenya-based company owns the Tusker beer brand? (intersec) east african breweries"
+      ],
+      [
+        0.9990791941035939,
+        0.8571428571428571,
+        2,
+        "What Kenya-based company owns the Tusker beer brand? (onehop) east african breweries"
+      ]
+    ],
+    "dev_predictions": [
+      "what kenya - based company ?",
+      "what owns the tusker beer brand ?",
+      "what kenya - based company owns the tusker beer brand ?",
+      "what kenya - based company owns the tusker beer brand ?"
+    ]
+  },
+  {
+    "id": "5a87964c5542996e4f30885f",
+    "original_question": "Romans stars which Tamil and Telugu actress?",
+    "S_tokenized_question": "romans stars S which S tamil and telugu actress ?",
+    "sub_question_1": "romans stars which ?",
+    "sub_question_2": "which tamil and telugu actress ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Nivetha Thomas"
+      ],
+      "sub_question_2_answers": [
+        "Nivetha Thomas"
+      ]
+    },
+    "class_scores": [
+      [
+        0.0018120644413658219,
+        0,
+        0,
+        "Romans stars which Tamil and Telugu actress? (bridge) mamilla shailaja priya"
+      ],
+      [
+        0.007375285096211223,
+        0,
+        1,
+        "Romans stars which Tamil and Telugu actress? (intersec) mamilla shailaja priya"
+      ],
+      [
+        7.557472691664105e-05,
+        0,
+        2,
+        "Romans stars which Tamil and Telugu actress? (onehop) geetanjali"
+      ]
+    ],
+    "dev_predictions": [
+      "romans stars which ?",
+      "which tamil and telugu actress ?",
+      "romans stars which tamil and telugu actress ?",
+      "romans stars which tamil and telugu actress ?"
+    ]
+  },
+  {
+    "id": "5a906f9f5542995b442420b3",
+    "original_question": "What theatre in St. Martin's Lane often hosts the English National Ballet?",
+    "S_tokenized_question": "what theatre S in st. martin 's lane S often hosts the english national ballet ?",
+    "sub_question_1": "what theatre in st. martin 's lane ?",
+    "sub_question_2": "what theatre often hosts the english national ballet ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "London Coliseum"
+      ],
+      "sub_question_2_answers": [
+        "London Coliseum"
+      ]
+    },
+    "class_scores": [
+      [
+        0.999977699620723,
+        1.0,
+        0,
+        "What theatre in St. Martin's Lane often hosts the English National Ballet? (bridge) london coliseum"
+      ],
+      [
+        0.9999720468827151,
+        1.0,
+        1,
+        "What theatre in St. Martin's Lane often hosts the English National Ballet? (intersec) london coliseum"
+      ],
+      [
+        0.999978223498107,
+        1.0,
+        2,
+        "What theatre in St. Martin's Lane often hosts the English National Ballet? (onehop) london coliseum"
+      ]
+    ],
+    "dev_predictions": [
+      "what theatre in st. martin 's lane ?",
+      "what theatre often hosts the english national ballet ?",
+      "what theatre in st. martin 's lane often hosts the english national ballet ?",
+      "what theatre in st. martin 's lane often hosts the english national ballet ?"
+    ]
+  },
+  {
+    "id": "5ab2958a554299449642c911",
+    "original_question": "3:10 to Yuma starred what American actor also known for his role as Hoban Washburne?",
+    "S_tokenized_question": "3:10 to yuma starred S what american actor S also known for his role as hoban washburne ?",
+    "sub_question_1": "3:10 to yuma starred what american actor ?",
+    "sub_question_2": "what american actor also known for his role as hoban washburne ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Alan Tudyk"
+      ],
+      "sub_question_2_answers": [
+        "Alan Tudyk"
+      ]
+    },
+    "class_scores": [
+      [
+        5.739348090851376e-09,
+        0,
+        0,
+        "3:10 to Yuma starred what American actor also known for his role as Hoban Washburne? (bridge) american actor and voice actor"
+      ],
+      [
+        0.9999362159783616,
+        0.8,
+        1,
+        "3:10 to Yuma starred what American actor also known for his role as Hoban Washburne? (intersec) alan wray tudyk"
+      ],
+      [
+        0.999969407667758,
+        0.8,
+        2,
+        "3:10 to Yuma starred what American actor also known for his role as Hoban Washburne? (onehop) alan wray tudyk"
+      ]
+    ],
+    "dev_predictions": [
+      "3:10 to yuma starred what american actor ?",
+      "what american actor also known for his role as hoban washburne ?",
+      "3:10 to yuma starred what american actor also known for his role as hoban washburne ?",
+      "3:10 to yuma starred what american actor also known for his role as hoban washburne ?"
+    ]
+  },
+  {
+    "id": "5a88dc5a5542993b751ca890",
+    "original_question": "What Australian Electoral Division in New South Wales created in 1906 covers suburbs like Alexandria?",
+    "S_tokenized_question": "what australian electoral division in new south wales S created in 1906 S covers suburbs like alexandria ?",
+    "sub_question_1": "what australian electoral division in new south wales created in 1906 ?",
+    "sub_question_2": "what australian electoral division covers suburbs like alexandria ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Division of Cook"
+      ],
+      "sub_question_2_answers": [
+        "Division of Cook"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999576998757735,
+        0.6666666666666666,
+        0,
+        "What Australian Electoral Division in New South Wales created in 1906 covers suburbs like Alexandria? (bridge) division of phillip"
+      ],
+      [
+        0.9999921575011869,
+        1.0,
+        1,
+        "What Australian Electoral Division in New South Wales created in 1906 covers suburbs like Alexandria? (intersec) division of cook"
+      ],
+      [
+        0.9999938166945894,
+        1.0,
+        2,
+        "What Australian Electoral Division in New South Wales created in 1906 covers suburbs like Alexandria? (onehop) division of cook"
+      ]
+    ],
+    "dev_predictions": [
+      "what australian electoral division in new south wales created in 1906 ?",
+      "what australian electoral division covers suburbs like alexandria ?",
+      "what australian electoral division in new south wales created in 1906 covers suburbs like alexandria ?",
+      "what australian electoral division in new south wales created in 1906 covers suburbs like alexandria ?"
+    ]
+  },
+  {
+    "id": "5ae2c416554299492dc91c67",
+    "original_question": "Which American actor portray Steve Urkel in \"Family Matters\"",
+    "S_tokenized_question": "which S american actor S portray steve urkel in \" family matters \"",
+    "sub_question_1": "which american actor ?",
+    "sub_question_2": "which portray steve urkel in \" family matters \" ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Jaleel Ahmad White"
+      ],
+      "sub_question_2_answers": [
+        "Jaleel Ahmad White"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999952166073506,
+        0.8,
+        0,
+        "Which American actor portray Steve Urkel in \"Family Matters\" (bridge) jaleel white"
+      ],
+      [
+        0.9999940103734397,
+        0.8,
+        1,
+        "Which American actor portray Steve Urkel in \"Family Matters\" (intersec) jaleel white"
+      ],
+      [
+        0.9999959851022816,
+        0.8,
+        2,
+        "Which American actor portray Steve Urkel in \"Family Matters\" (onehop) jaleel white"
+      ]
+    ],
+    "dev_predictions": [
+      "which american actor ?",
+      "which portray steve urkel in \" family matters \" ?",
+      "which american actor portray steve urkel in \" family matters \"",
+      "which american actor portray steve urkel in \" family matters \""
+    ]
+  },
+  {
+    "id": "5a84ac585542991dd0999d72",
+    "original_question": "What former city, now the fourth-largest Russian city, was the Belarusian State Technological University evacuated to in 1941?",
+    "S_tokenized_question": "what former city , S now the fourth - largest russian city S , was the belarusian state technological university evacuated to in 1941 ?",
+    "sub_question_1": "what former city , now the fourth - largest russian city ?",
+    "sub_question_2": "what was the belarusian state technological university evacuated to in 1941 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Sverdlovsk"
+      ],
+      "sub_question_2_answers": [
+        "Sverdlovsk"
+      ]
+    },
+    "class_scores": [
+      [
+        0.6338984399985634,
+        1.0,
+        0,
+        "What former city, now the fourth-largest Russian city, was the Belarusian State Technological University evacuated to in 1941? (bridge) sverdlovsk"
+      ],
+      [
+        0.32942520267294456,
+        1.0,
+        1,
+        "What former city, now the fourth-largest Russian city, was the Belarusian State Technological University evacuated to in 1941? (intersec) sverdlovsk"
+      ],
+      [
+        0.7011444307060826,
+        1.0,
+        2,
+        "What former city, now the fourth-largest Russian city, was the Belarusian State Technological University evacuated to in 1941? (onehop) sverdlovsk"
+      ]
+    ],
+    "dev_predictions": [
+      "what former city , now the fourth - largest russian city ?",
+      "what was the belarusian state technological university evacuated to in 1941 ?",
+      "what former city , now the fourth - largest russian city , was the belarusian state technological university evacuated to in 1941 ?",
+      "what former city , now the fourth - largest russian city , was the belarusian state technological university evacuated to in 1941 ?"
+    ]
+  },
+  {
+    "id": "5a87b30c5542994846c1cdcf",
+    "original_question": "Which actor, who also appeared in \"The Usual Suspects\" (1995), does the 2017 action crime comedy Baby Driver star?",
+    "S_tokenized_question": "which actor , S who also appeared in \" the usual suspects \" ( 1995 ) S , does the 2017 action crime comedy baby driver star ?",
+    "sub_question_1": "which actor also appeared in \" the usual suspects \" ?",
+    "sub_question_2": "which actor ( 1995 ) , does the 2017 action crime comedy baby driver star ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Kevin Spacey"
+      ],
+      "sub_question_2_answers": [
+        "Kevin Spacey"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9851014397636318,
+        0,
+        0,
+        "Which actor, who also appeared in \"The Usual Suspects\" (1995), does the 2017 action crime comedy Baby Driver star? (bridge) jon hamm"
+      ],
+      [
+        0.0036975015675582037,
+        1.0,
+        1,
+        "Which actor, who also appeared in \"The Usual Suspects\" (1995), does the 2017 action crime comedy Baby Driver star? (intersec) kevin spacey"
+      ],
+      [
+        0.966454549862989,
+        0,
+        2,
+        "Which actor, who also appeared in \"The Usual Suspects\" (1995), does the 2017 action crime comedy Baby Driver star? (onehop) jon hamm"
+      ]
+    ],
+    "dev_predictions": [
+      "which actor also appeared in \" the usual suspects \" ?",
+      "which actor ( 1995 ) , does the 2017 action crime comedy baby driver star ?",
+      "which actor , who also appeared in \" the usual suspects \" ( 1995 ) , does the 2017 action crime comedy baby driver star ?",
+      "which actor , who also appeared in \" the usual suspects \" ( 1995 ) , does the 2017 action crime comedy baby driver star ?"
+    ]
+  },
+  {
+    "id": "5a7943c655429970f5fffe89",
+    "original_question": "Which of the teams that Sun-woo Kim played on never won a division title?",
+    "S_tokenized_question": "which of the teams S that sun - woo kim played on S never won a division title ?",
+    "sub_question_1": "which of the teams sun - woo kim played on ?",
+    "sub_question_2": "which of the teams never won a division title ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Colorado Rockies"
+      ],
+      "sub_question_2_answers": [
+        "Colorado Rockies"
+      ]
+    },
+    "class_scores": [
+      [
+        0.03766360004146992,
+        0,
+        0,
+        "Which of the teams that Sun-woo Kim played on never won a division title? (bridge) miami marlins"
+      ],
+      [
+        0.9995668801654964,
+        1.0,
+        1,
+        "Which of the teams that Sun-woo Kim played on never won a division title? (intersec) colorado rockies"
+      ],
+      [
+        0.01612767289508179,
+        0,
+        2,
+        "Which of the teams that Sun-woo Kim played on never won a division title? (onehop) cincinnati reds"
+      ]
+    ],
+    "dev_predictions": [
+      "which of the teams sun - woo kim played on ?",
+      "which of the teams never won a division title ?",
+      "which of the teams that sun - woo kim played on never won a division title ?",
+      "which of the teams that sun - woo kim played on never won a division title ?"
+    ]
+  },
+  {
+    "id": "5a7602d8554299109176e5fb",
+    "original_question": "What actress and and writer starred with Jennifer Saunders in bothe \"The Supergrass\" and \"French and Saunders\"?",
+    "S_tokenized_question": "what actress and and writer starred with jennifer saunders in S bothe \" the supergrass \" S and \" french and saunders \" ?",
+    "sub_question_1": "what actress and and writer starred with jennifer saunders in bothe \" the supergrass \" ?",
+    "sub_question_2": "what actress and and writer starred with jennifer saunders in \" french and saunders \" ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Dawn Roma French"
+      ],
+      "sub_question_2_answers": [
+        "Dawn Roma French"
+      ]
+    },
+    "class_scores": [
+      [
+        0.00018915711520874228,
+        0,
+        0,
+        "What actress and and writer starred with Jennifer Saunders in bothe \"The Supergrass\" and \"French and Saunders\"? (bridge) sitcom"
+      ],
+      [
+        0.9965531632440202,
+        0.8,
+        1,
+        "What actress and and writer starred with Jennifer Saunders in bothe \"The Supergrass\" and \"French and Saunders\"? (intersec) dawn french"
+      ],
+      [
+        0.6995259910049149,
+        0.8,
+        2,
+        "What actress and and writer starred with Jennifer Saunders in bothe \"The Supergrass\" and \"French and Saunders\"? (onehop) dawn french"
+      ]
+    ],
+    "dev_predictions": [
+      "what actress and and writer starred with jennifer saunders in bothe \" the supergrass \" ?",
+      "what actress and and writer starred with jennifer saunders in \" french and saunders \" ?",
+      "what actress and and writer starred with jennifer saunders in bothe \" the supergrass \" and \" french and saunders \" ?",
+      "what actress and and writer starred with jennifer saunders in bothe \" the supergrass \" and \" french and saunders \" ?"
+    ]
+  },
+  {
+    "id": "5a8241a855429940e5e1a819",
+    "original_question": "The Sports Museum is a non-profit museum currently located in what multi-purpose arena that opened in 1995?",
+    "S_tokenized_question": "the sports museum S is a non - profit museum currently located in what multi - purpose arena S that opened in 1995 ?",
+    "sub_question_1": "the sports museum is a non - profit museum currently located in what multi - purpose arena ?",
+    "sub_question_2": "what multi - purpose arena opened in 1995 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "TD Garden"
+      ],
+      "sub_question_2_answers": [
+        "TD Garden"
+      ]
+    },
+    "class_scores": [
+      [
+        0.00011372820283459553,
+        0,
+        0,
+        "The Sports Museum is a non-profit museum currently located in what multi-purpose arena that opened in 1995? (bridge) multi-purpose arena"
+      ],
+      [
+        0.9999978450768342,
+        1.0,
+        1,
+        "The Sports Museum is a non-profit museum currently located in what multi-purpose arena that opened in 1995? (intersec) td garden"
+      ],
+      [
+        0.9999926112324521,
+        1.0,
+        2,
+        "The Sports Museum is a non-profit museum currently located in what multi-purpose arena that opened in 1995? (onehop) td garden"
+      ]
+    ],
+    "dev_predictions": [
+      "the sports museum is a non - profit museum currently located in what multi - purpose arena ?",
+      "what multi - purpose arena opened in 1995 ?",
+      "the sports museum is a non - profit museum currently located in what multi - purpose arena that opened in 1995 ?",
+      "the sports museum is a non - profit museum currently located in what multi - purpose arena that opened in 1995 ?"
+    ]
+  },
+  {
+    "id": "5ab916e155429919ba4e23a4",
+    "original_question": "12 Years a Slave starred what British actor born 10 July 1977)",
+    "S_tokenized_question": "12 years a slave starred S what british actor S born 10 july 1977 )",
+    "sub_question_1": "12 years a slave starred what british actor ?",
+    "sub_question_2": "what british actor born 10 july 1977 ) ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Chiwetel Ejiofor"
+      ],
+      "sub_question_2_answers": [
+        "Chiwetel Ejiofor"
+      ]
+    },
+    "class_scores": [
+      [
+        2.5535848826311154e-06,
+        0,
+        0,
+        "12 Years a Slave starred what British actor born 10 July 1977) (bridge) levan kobiashvili"
+      ],
+      [
+        0.9999655178387739,
+        0.8,
+        1,
+        "12 Years a Slave starred what British actor born 10 July 1977) (intersec) chiwetel umeadi ejiofor"
+      ],
+      [
+        0.9999687277417352,
+        0.8,
+        2,
+        "12 Years a Slave starred what British actor born 10 July 1977) (onehop) chiwetel umeadi ejiofor"
+      ]
+    ],
+    "dev_predictions": [
+      "12 years a slave starred what british actor ?",
+      "what british actor born 10 july 1977 ) ?",
+      "12 years a slave starred what british actor born 10 july 1977 )",
+      "12 years a slave starred what british actor born 10 july 1977 )"
+    ]
+  },
+  {
+    "id": "5a8dab16554299068b959d89",
+    "original_question": "What type of elevation does Aldgate railway station, Adelaide and Aldgate, South Australia have in common?",
+    "S_tokenized_question": "what type of elevation does S aldgate railway station , adelaide S and aldgate , south australia have in common ?",
+    "sub_question_1": "what type of elevation does aldgate railway station , adelaide and aldgate , south australia ?",
+    "sub_question_2": "what type of elevation does aldgate railway station , adelaide and aldgate , south have in common ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Hills"
+      ],
+      "sub_question_2_answers": [
+        "Hills"
+      ]
+    },
+    "class_scores": [
+      [
+        0.0036699338298265913,
+        0.6666666666666666,
+        0,
+        "What type of elevation does Aldgate railway station, Adelaide and Aldgate, South Australia have in common? (bridge) adelaide hills"
+      ],
+      [
+        0.0032254885160265,
+        0.6666666666666666,
+        1,
+        "What type of elevation does Aldgate railway station, Adelaide and Aldgate, South Australia have in common? (intersec) adelaide hills"
+      ],
+      [
+        0.007467010733734233,
+        1.0,
+        2,
+        "What type of elevation does Aldgate railway station, Adelaide and Aldgate, South Australia have in common? (onehop) hills"
+      ]
+    ],
+    "dev_predictions": [
+      "what type of elevation does aldgate railway station , adelaide and aldgate , south australia ?",
+      "what type of elevation does aldgate railway station , adelaide and aldgate , south have in common ?",
+      "what type of elevation does aldgate railway station , adelaide and aldgate , south australia have in common ?",
+      "what type of elevation does aldgate railway station , adelaide and aldgate , south australia have in common ?"
+    ]
+  },
+  {
+    "id": "5a7cc700554299452d57ba4e",
+    "original_question": "What speech by Abraham Lincoln was part of Richard Heffner's A Documentary History of the United States?",
+    "S_tokenized_question": "what speech S by abraham lincoln S was part of richard heffner 's a documentary history of the united states ?",
+    "sub_question_1": "what speech by abraham lincoln ?",
+    "sub_question_2": "what speech was part of richard heffner 's a documentary history of the united states ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Gettysburg Address"
+      ],
+      "sub_question_2_answers": [
+        "Gettysburg Address"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9999740297690425,
+        1.0,
+        0,
+        "What speech by Abraham Lincoln was part of Richard Heffner's A Documentary History of the United States? (bridge) gettysburg address"
+      ],
+      [
+        0.9999548013377948,
+        1.0,
+        1,
+        "What speech by Abraham Lincoln was part of Richard Heffner's A Documentary History of the United States? (intersec) gettysburg address"
+      ],
+      [
+        0.9999584452673231,
+        1.0,
+        2,
+        "What speech by Abraham Lincoln was part of Richard Heffner's A Documentary History of the United States? (onehop) gettysburg address"
+      ]
+    ],
+    "dev_predictions": [
+      "what speech by abraham lincoln ?",
+      "what speech was part of richard heffner 's a documentary history of the united states ?",
+      "what speech by abraham lincoln was part of richard heffner 's a documentary history of the united states ?",
+      "what speech by abraham lincoln was part of richard heffner 's a documentary history of the united states ?"
+    ]
+  },
+  {
+    "id": "5ae71f06554299572ea54708",
+    "original_question": "Christopher de Haro provided the financial backing to what Portuguese explorer who organised the Spanish expedition to the East Indies from 1519 to 1522? ",
+    "S_tokenized_question": "christopher de haro provided the financial backing to S what portuguese explorer S who organised the spanish expedition to the east indies from 1519 to 1522 ?",
+    "sub_question_1": "christopher de haro provided the financial backing to what portuguese explorer ?",
+    "sub_question_2": "what portuguese explorer organised the spanish expedition to the east indies from 1519 to 1522 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Ferdinand Magellan"
+      ],
+      "sub_question_2_answers": [
+        "Ferdinand Magellan"
+      ]
+    },
+    "class_scores": [
+      [
+        4.1862966608785386e-06,
+        0,
+        0,
+        "Christopher de Haro provided the financial backing to what Portuguese explorer who organised the Spanish expedition to the East Indies from 1519 to 1522?  (bridge) spanish expedition to the east indies"
+      ],
+      [
+        0.9999941056651338,
+        1.0,
+        1,
+        "Christopher de Haro provided the financial backing to what Portuguese explorer who organised the Spanish expedition to the East Indies from 1519 to 1522?  (intersec) ferdinand magellan"
+      ],
+      [
+        0.9999933834637306,
+        1.0,
+        2,
+        "Christopher de Haro provided the financial backing to what Portuguese explorer who organised the Spanish expedition to the East Indies from 1519 to 1522?  (onehop) ferdinand magellan"
+      ]
+    ],
+    "dev_predictions": [
+      "christopher de haro provided the financial backing to what portuguese explorer ?",
+      "what portuguese explorer organised the spanish expedition to the east indies from 1519 to 1522 ?",
+      "christopher de haro provided the financial backing to what portuguese explorer who organised the spanish expedition to the east indies from 1519 to 1522 ?",
+      "christopher de haro provided the financial backing to what portuguese explorer who organised the spanish expedition to the east indies from 1519 to 1522 ?"
+    ]
+  },
+  {
+    "id": "5adfc35755429906c02daa30",
+    "original_question": "Bill Woodfull opened pairing with what cricketer who died in April of 1991?",
+    "S_tokenized_question": "bill woodfull opened pairing with S what cricketer S who died in april of 1991 ?",
+    "sub_question_1": "bill woodfull opened pairing with what cricketer ?",
+    "sub_question_2": "what cricketer died in april of 1991 ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Bill Ponsford"
+      ],
+      "sub_question_2_answers": [
+        "Bill Ponsford"
+      ]
+    },
+    "class_scores": [
+      [
+        0.6765584751673381,
+        1.0,
+        0,
+        "Bill Woodfull opened pairing with what cricketer who died in April of 1991? (bridge) bill ponsford"
+      ],
+      [
+        0.9794667893401515,
+        1.0,
+        1,
+        "Bill Woodfull opened pairing with what cricketer who died in April of 1991? (intersec) bill ponsford"
+      ],
+      [
+        0.9854221828918033,
+        1.0,
+        2,
+        "Bill Woodfull opened pairing with what cricketer who died in April of 1991? (onehop) bill ponsford"
+      ]
+    ],
+    "dev_predictions": [
+      "bill woodfull opened pairing with what cricketer ?",
+      "what cricketer died in april of 1991 ?",
+      "bill woodfull opened pairing with what cricketer who died in april of 1991 ?",
+      "bill woodfull opened pairing with what cricketer who died in april of 1991 ?"
+    ]
+  },
+  {
+    "id": "5ae721885542996d980e7cba",
+    "original_question": "Stories USA starred which actor and comedian from \"The Office\"?",
+    "S_tokenized_question": "stories usa starred S which actor and comedian S from \" the office \" ?",
+    "sub_question_1": "stories usa starred which actor and comedian ?",
+    "sub_question_2": "which actor and comedian from \" the office \" ?",
+    "answers": {
+      "sub_question_1_answers": [
+        "Steven John Carell"
+      ],
+      "sub_question_2_answers": [
+        "Steven John Carell"
+      ]
+    },
+    "class_scores": [
+      [
+        0.9955584644362092,
+        0.4,
+        0,
+        "Stories USA starred which actor and comedian from \"The Office\"? (bridge) steve carell"
+      ],
+      [
+        0.01011046785154401,
+        0,
+        1,
+        "Stories USA starred which actor and comedian from \"The Office\"? (intersec) zach woods"
+      ],
+      [
+        0.8236769753185039,
+        1.0,
+        2,
+        "Stories USA starred which actor and comedian from \"The Office\"? (onehop) steven john carell"
+      ]
+    ],
+    "dev_predictions": [
+      "stories usa starred which actor and comedian ?",
+      "which actor and comedian from \" the office \" ?",
+      "stories usa starred which actor and comedian from \" the office \" ?",
+      "stories usa starred which actor and comedian from \" the office \" ?"
+    ]
+  }
+]

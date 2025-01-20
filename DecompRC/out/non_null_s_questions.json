@@ -1,0 +1,332 @@
+[
+  {
+    "id": "5ac120c55542992a796dedfc",
+    "original_question": "Maxeda has been owned since 2004 by which American multinational equity firm?",
+    "S_tokenized_question": "maxeda has been owned since 2004 by S which S american multinational equity firm ?"
+  },
+  {
+    "id": "5a7f113d55429934daa2fcbe",
+    "original_question": "Which professional baseball player and National 1993 Baseball Hall of Fame inductee is featured in the Greatest Sports Legends anthology? ",
+    "S_tokenized_question": "which S professional baseball player and national 1993 baseball hall of fame S inductee is featured in the greatest sports legends anthology ?"
+  },
+  {
+    "id": "5adcc3ed5542994d58a2f6c4",
+    "original_question": "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City?",
+    "S_tokenized_question": "what group S did carlene lefevre and rich lefevre form S in brooklyn , new york city ?"
+  },
+  {
+    "id": "5abaeda95542992ccd8e7e5d",
+    "original_question": "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank?",
+    "S_tokenized_question": "what is the fictional name of the mall S in the movie \" back to the future \" S which was filmed at the headquarters of evertrust bank ?"
+  },
+  {
+    "id": "5a898872554299669944a540",
+    "original_question": "What was the name of Kalyanji Virji Shah's brother who won the Filmfare Award for Best Music Director?",
+    "S_tokenized_question": "what was the name of S kalyanji virji shah 's brother S who won the filmfare award for best music director ?"
+  },
+  {
+    "id": "5adce2ee5542992c1e3a2461",
+    "original_question": "What city that Lettuce Lake Park is just outside of is the largest in Hillsborough County, Florida? ",
+    "S_tokenized_question": "what city S that lettuce lake park is just outside of S is the largest in hillsborough county , florida ?"
+  },
+  {
+    "id": "5ae5a4e5554299546bf82f01",
+    "original_question": "Which writer of \"Rewrite This Story\" are an American songwriting duo and composing team for musical theater, films, and television?",
+    "S_tokenized_question": "which writer S of \" rewrite this story \" S are an american songwriting duo and composing team for musical theater , films , and television ?"
+  },
+  {
+    "id": "5abd6a7455429933744ab7c5",
+    "original_question": "What German medium tank, sometimes called the \"Mark V\", that was deployed on the Eastern and Western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by Nazi Germany during World War II?",
+    "S_tokenized_question": "what german medium tank , S sometimes called the \" mark v \" S , that was deployed on the eastern and western fronts from mid-1943 provided the armor and suspension for the chassis of the tank destroyer built by nazi germany during world war ii ?"
+  },
+  {
+    "id": "5ae5e8c85542996de7b71a69",
+    "original_question": "Name the actor who has acted in the film Arrival and who has been nominated for the Academy Award for Best Supporting Actor for the film `The Town' ?",
+    "S_tokenized_question": "name the actor S who has acted in the film arrival S and who has been nominated for the academy award for best supporting actor for the film ` the town ' ?"
+  },
+  {
+    "id": "5a75f32055429976ec32bcb7",
+    "original_question": "This actor born August 26, 1909 stared in the tv show \" The Cowboys \".",
+    "S_tokenized_question": "this actor S born august 26 , 1909 S stared in the tv show \" the cowboys \" ."
+  },
+  {
+    "id": "5abc091555429965836003f6",
+    "original_question": "Which of Darren Aronofsky's movies is based on a Russian ballet?",
+    "S_tokenized_question": "which S of darren aronofsky 's movies S is based on a russian ballet ?"
+  },
+  {
+    "id": "5a8e296f554299068b959e71",
+    "original_question": "What country does Washington Dulles International Airport and Baltimore–Washington metropolitan area have in common?",
+    "S_tokenized_question": "what country does S washington dulles international airport S and baltimore - washington metropolitan area have in common ?"
+  },
+  {
+    "id": "5a7d2ecc5542995ed0d16629",
+    "original_question": "Robbie Tucker plays in what series that follows a group of friends who run an Irish bar?",
+    "S_tokenized_question": "robbie tucker plays in S what series S that follows a group of friends who run an irish bar ?"
+  },
+  {
+    "id": "5ae7e8f55542994a481bbe06",
+    "original_question": "Which fictional MI6 agent is a fictional character created by the British journalist and novelist Ian Fleming in 1952?",
+    "S_tokenized_question": "which S fictional mi6 agent S is a fictional character created by the british journalist and novelist ian fleming in 1952 ?"
+  },
+  {
+    "id": "5abadc355542996606241644",
+    "original_question": "Name the 500 year-old-republic that Florentius was a praetorian prefect for. ",
+    "S_tokenized_question": "name the 500 year - old - S republic S that florentius was a praetorian prefect for ."
+  },
+  {
+    "id": "5ae5ef105542996de7b71a72",
+    "original_question": "What is the seventh book of the Hebrew and Christina bible and also has Quran references to the river drinking experience?",
+    "S_tokenized_question": "what is the seventh book S of the hebrew and christina bible S and also has quran references to the river drinking experience ?"
+  },
+  {
+    "id": "5aba9d7955429901930fa85f",
+    "original_question": "Which actor/actress from Overnight Delivery was born in New Orleans?",
+    "S_tokenized_question": "which actor / actress S from overnight delivery S was born in new orleans ?"
+  },
+  {
+    "id": "5a74670855429929fddd840d",
+    "original_question": "Which CNN journalist and two-time Pulitzer winner inspired the Half the Sky Movement?",
+    "S_tokenized_question": "which S cnn journalist and two - time pulitzer winner S inspired the half the sky movement ?"
+  },
+  {
+    "id": "5a8c9164554299653c1aa0c1",
+    "original_question": "A Hand Is on the Gate marked the Broadway directorial debut of what American actor who resisted playing stereotypically black roles?",
+    "S_tokenized_question": "a hand is on the gate marked the broadway directorial debut of S what american actor S who resisted playing stereotypically black roles ?"
+  },
+  {
+    "id": "5ae5b255554299546bf82f2c",
+    "original_question": "In which state was both Rex Gene Foods and Foodtown located in?",
+    "S_tokenized_question": "in which state was S both rex gene foods S and foodtown located in ?"
+  },
+  {
+    "id": "5a7f341655429930675136a0",
+    "original_question": "Alison Castle is the editor of what publication with a connection to the Beatles?",
+    "S_tokenized_question": "alison castle is the editor of S what publication S with a connection to the beatles ?"
+  },
+  {
+    "id": "5ab482815542990594ba9c3d",
+    "original_question": "Flowers in the Attick starred which \"Mad Men\" actress?",
+    "S_tokenized_question": "flowers in the attick starred S which S \" mad men \" actress ?"
+  },
+  {
+    "id": "5adf35935542993344016c36",
+    "original_question": "Which wrestler, who died in 2009, featured on the wrestling show Starrcade?",
+    "S_tokenized_question": "which wrestler , S who died in 2009 S , featured on the wrestling show starrcade ?"
+  },
+  {
+    "id": "5a7509175542993748c897a3",
+    "original_question": "What group of Elektra Records recording artists are known to be an indie pop band?",
+    "S_tokenized_question": "what S group of elektra records recording artists S are known to be an indie pop band ?"
+  },
+  {
+    "id": "5ac3c264554299204fd21e37",
+    "original_question": "The Gap band was from what neighbor hood that was known as the black wall street?",
+    "S_tokenized_question": "the gap band was from S what neighbor hood S that was known as the black wall street ?"
+  },
+  {
+    "id": "5ae7a2e255429952e35ea99e",
+    "original_question": "\"You Are\" is a song from which Pearl Jam album dealing with the September 2001 terrorist attacks?",
+    "S_tokenized_question": "\" you are \" is a song from S which pearl jam album S dealing with the september 2001 terrorist attacks ?"
+  },
+  {
+    "id": "5ae612f3554299546bf83065",
+    "original_question": "Which musician who first became famous in the late 1960s and early 1970s is Inner Secrets  the ninth studio album by",
+    "S_tokenized_question": "which musician S who first became famous in the late 1960s and early 1970s S is inner secrets   the ninth studio album by"
+  },
+  {
+    "id": "5a716c415542994082a3e827",
+    "original_question": "Which airline partners with Gogo Inflight Internet and opened in 1984?",
+    "S_tokenized_question": "which airline S partners with gogo inflight internet S and opened in 1984 ?"
+  },
+  {
+    "id": "5adcfe7f5542992c1e3a24f1",
+    "original_question": " La Yesca Dam was inaugurated by which Mexican politiician and President of the country from 2006-2012?",
+    "S_tokenized_question": "  la yesca dam was inaugurated by S which mexican politiician S and president of the country from 2006 - 2012 ?"
+  },
+  {
+    "id": "5ac0714f554299294b218fe1",
+    "original_question": "Robert Allen \"Bob\" Case is best known for inspiring the naming of which initial area of low pressure developed off Atlantic Canada on October 29? ",
+    "S_tokenized_question": "robert allen \" bob \" case is best known for inspiring the naming of S which initial area S of low pressure developed off atlantic canada on october 29 ?"
+  },
+  {
+    "id": "5ab6c94c554299710c8d1f5e",
+    "original_question": "What New York City–based hip-hop musical group consists of rappers including Darryl Hill?",
+    "S_tokenized_question": "what S new york city - based hip - hop musical group S consists of rappers including darryl hill ?"
+  },
+  {
+    "id": "5a79fe3b5542994f819ef119",
+    "original_question": "What is the financial group which created the Sporting Portugal Fund?",
+    "S_tokenized_question": "what S is the financial group S which created the sporting portugal fund ?"
+  },
+  {
+    "id": "5a74e8a25542996c70cfae37",
+    "original_question": "Which American musician, principally known for his work as guitarist, vocalist and songwriter released the Voice Of Reason album?",
+    "S_tokenized_question": "which american musician , S principally known for his work as guitarist , vocalist and songwriter S released the voice of reason album ?"
+  },
+  {
+    "id": "5ab6973f554299110f219a25",
+    "original_question": "What monthly magazine, published by ASIS International, includes articles on topics of computer security?",
+    "S_tokenized_question": "what monthly magazine , S published by asis international S , includes articles on topics of computer security ?"
+  },
+  {
+    "id": "5a77d25555429949eeb29f6c",
+    "original_question": "Which 2017 American 3D film was written by Cinco Paul and Ken Daurio?",
+    "S_tokenized_question": "which S 2017 american 3d film S was written by cinco paul and ken daurio ?"
+  },
+  {
+    "id": "5a79178d554299029c4b5ef9",
+    "original_question": "Which member of the music group Guy spearheaded the fusion genre New Jack Swing with Bernard Belle in the 1980's? ",
+    "S_tokenized_question": "which S member of the music group guy S spearheaded the fusion genre new jack swing with bernard belle in the 1980 's ?"
+  },
+  {
+    "id": "5ae034bd55429925eb1afc2a",
+    "original_question": "Which  American politician and lawyer contested in San Francisco mayoral election, 2003",
+    "S_tokenized_question": "which   S american politician and lawyer S contested in san francisco mayoral election , 2003"
+  },
+  {
+    "id": "5a793b5b55429970f5fffe82",
+    "original_question": "What is the country of origin of the film Dui Purush and the music director Pankaj Mullick",
+    "S_tokenized_question": "what is the country of S origin of the film dui purush S and the music director pankaj mullick"
+  },
+  {
+    "id": "5a8911dd554299515336129d",
+    "original_question": "The Un-Americans contained which wrestler who also went by what TNA Wrestling name?",
+    "S_tokenized_question": "the un - americans contained S which wrestler S who also went by what tna wrestling name ?"
+  },
+  {
+    "id": "5a8f8c6d5542997ba9cb32b1",
+    "original_question": "What is the name of this South Asian island country, located in the Indian Ocean for which Ahmed Abdulla is a professional footballer?",
+    "S_tokenized_question": "what is the name of this south asian island country , S located in the indian ocean S for which ahmed abdulla is a professional footballer ?"
+  },
+  {
+    "id": "5a8b6a5155429949d91db5a3",
+    "original_question": "During the Miss USA 2015, Olivia Jordan of Oklahoma was crowned by which American television host, model, taekwondo coach, and beauty queen who won Miss USA 2014?",
+    "S_tokenized_question": "during the miss usa 2015 , olivia jordan of oklahoma was crowned by S which american television host , model , taekwondo coach , and beauty queen S who won miss usa 2014 ?"
+  },
+  {
+    "id": "5a891e1e5542993b751ca913",
+    "original_question": "Who was a grandson of Aurelia Plath and was a fisheries biologist?",
+    "S_tokenized_question": "who S was a grandson of aurelia plath S and was a fisheries biologist ?"
+  },
+  {
+    "id": "5add3e2b5542997545bbbcf5",
+    "original_question": "Who directed both Last Days and Point Break?",
+    "S_tokenized_question": "who directed S both last days S and point break ?"
+  },
+  {
+    "id": "5adf6b405542992d7e9f9341",
+    "original_question": "Which contributor to Fear: 13 Stories of Suspense and Horror was born on March 15, 1953 ?",
+    "S_tokenized_question": "which contributor S to fear : 13 stories of suspense and horror S was born on march 15 , 1953 ?"
+  },
+  {
+    "id": "5ae1f70c5542997f29b3c1c5",
+    "original_question": "My Sentimental Friend was performed by which English beat rock band?",
+    "S_tokenized_question": "my sentimental friend was performed by S which S english beat rock band ?"
+  },
+  {
+    "id": "5a83b01c5542996488c2e489",
+    "original_question": "What Argentinian retired defensive midfielder, and current manager of C.D. Guadalajara, was traded to Parma alongside Sérgio Conçeicão at the end of the 1999–2000 season? ",
+    "S_tokenized_question": "what argentinian S retired defensive midfielder , and current manager of c.d. guadalajara S , was traded to parma alongside sérgio conçeicão at the end of the 1999 - 2000 season ?"
+  },
+  {
+    "id": "5ae49bb755429970de88d9d7",
+    "original_question": "Fash Mosque is 4.5 km away from which mosque originally built by Muhammad?",
+    "S_tokenized_question": "fash mosque is 4.5 km away from S which mosque S originally built by muhammad ?"
+  },
+  {
+    "id": "5abd0553554299700f9d7963",
+    "original_question": "Archie Norman will succeed Robert Swannell as chairman of what British multinational retailer that is headquartered in the city of Westminster, London?",
+    "S_tokenized_question": "archie norman will succeed robert swannell as chairman of S what british multinational retailer S that is headquartered in the city of westminster , london ?"
+  },
+  {
+    "id": "5a8a0ed55542992e4fca84e8",
+    "original_question": "Charles Hurt is currently the opinion editor of \"The Washington Times\", Fox News contributor, Breitbart News contributor, and editor of which politically conservative American news aggregation website?",
+    "S_tokenized_question": "charles hurt is currently the opinion editor of \" the washington times \" , fox news contributor , breitbart news contributor , and editor of S which S politically conservative american news aggregation website ?"
+  },
+  {
+    "id": "5ab4396555429942dd415eed",
+    "original_question": "What Kenya-based company owns the Tusker beer brand?",
+    "S_tokenized_question": "what S kenya - based company S owns the tusker beer brand ?"
+  },
+  {
+    "id": "5a87964c5542996e4f30885f",
+    "original_question": "Romans stars which Tamil and Telugu actress?",
+    "S_tokenized_question": "romans stars S which S tamil and telugu actress ?"
+  },
+  {
+    "id": "5a906f9f5542995b442420b3",
+    "original_question": "What theatre in St. Martin's Lane often hosts the English National Ballet?",
+    "S_tokenized_question": "what theatre S in st. martin 's lane S often hosts the english national ballet ?"
+  },
+  {
+    "id": "5ab2958a554299449642c911",
+    "original_question": "3:10 to Yuma starred what American actor also known for his role as Hoban Washburne?",
+    "S_tokenized_question": "3:10 to yuma starred S what american actor S also known for his role as hoban washburne ?"
+  },
+  {
+    "id": "5a88dc5a5542993b751ca890",
+    "original_question": "What Australian Electoral Division in New South Wales created in 1906 covers suburbs like Alexandria?",
+    "S_tokenized_question": "what australian electoral division in new south wales S created in 1906 S covers suburbs like alexandria ?"
+  },
+  {
+    "id": "5ae2c416554299492dc91c67",
+    "original_question": "Which American actor portray Steve Urkel in \"Family Matters\"",
+    "S_tokenized_question": "which S american actor S portray steve urkel in \" family matters \""
+  },
+  {
+    "id": "5a84ac585542991dd0999d72",
+    "original_question": "What former city, now the fourth-largest Russian city, was the Belarusian State Technological University evacuated to in 1941?",
+    "S_tokenized_question": "what former city , S now the fourth - largest russian city S , was the belarusian state technological university evacuated to in 1941 ?"
+  },
+  {
+    "id": "5a87b30c5542994846c1cdcf",
+    "original_question": "Which actor, who also appeared in \"The Usual Suspects\" (1995), does the 2017 action crime comedy Baby Driver star?",
+    "S_tokenized_question": "which actor , S who also appeared in \" the usual suspects \" ( 1995 ) S , does the 2017 action crime comedy baby driver star ?"
+  },
+  {
+    "id": "5a7943c655429970f5fffe89",
+    "original_question": "Which of the teams that Sun-woo Kim played on never won a division title?",
+    "S_tokenized_question": "which of the teams S that sun - woo kim played on S never won a division title ?"
+  },
+  {
+    "id": "5a7602d8554299109176e5fb",
+    "original_question": "What actress and and writer starred with Jennifer Saunders in bothe \"The Supergrass\" and \"French and Saunders\"?",
+    "S_tokenized_question": "what actress and and writer starred with jennifer saunders in S bothe \" the supergrass \" S and \" french and saunders \" ?"
+  },
+  {
+    "id": "5a8241a855429940e5e1a819",
+    "original_question": "The Sports Museum is a non-profit museum currently located in what multi-purpose arena that opened in 1995?",
+    "S_tokenized_question": "the sports museum S is a non - profit museum currently located in what multi - purpose arena S that opened in 1995 ?"
+  },
+  {
+    "id": "5ab916e155429919ba4e23a4",
+    "original_question": "12 Years a Slave starred what British actor born 10 July 1977)",
+    "S_tokenized_question": "12 years a slave starred S what british actor S born 10 july 1977 )"
+  },
+  {
+    "id": "5a8dab16554299068b959d89",
+    "original_question": "What type of elevation does Aldgate railway station, Adelaide and Aldgate, South Australia have in common?",
+    "S_tokenized_question": "what type of elevation does S aldgate railway station , adelaide S and aldgate , south australia have in common ?"
+  },
+  {
+    "id": "5a7cc700554299452d57ba4e",
+    "original_question": "What speech by Abraham Lincoln was part of Richard Heffner's A Documentary History of the United States?",
+    "S_tokenized_question": "what speech S by abraham lincoln S was part of richard heffner 's a documentary history of the united states ?"
+  },
+  {
+    "id": "5ae71f06554299572ea54708",
+    "original_question": "Christopher de Haro provided the financial backing to what Portuguese explorer who organised the Spanish expedition to the East Indies from 1519 to 1522? ",
+    "S_tokenized_question": "christopher de haro provided the financial backing to S what portuguese explorer S who organised the spanish expedition to the east indies from 1519 to 1522 ?"
+  },
+  {
+    "id": "5adfc35755429906c02daa30",
+    "original_question": "Bill Woodfull opened pairing with what cricketer who died in April of 1991?",
+    "S_tokenized_question": "bill woodfull opened pairing with S what cricketer S who died in april of 1991 ?"
+  },
+  {
+    "id": "5ae721885542996d980e7cba",
+    "original_question": "Stories USA starred which actor and comedian from \"The Office\"?",
+    "S_tokenized_question": "stories usa starred S which actor and comedian S from \" the office \" ?"
+  }
+]

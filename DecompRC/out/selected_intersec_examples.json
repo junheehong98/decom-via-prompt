@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5ac4e593554299076e296e37",
+    "probability": 2.6081206130872637e-21,
+    "original_question": "OU812 was the second album to feature a vocalist that also played what instrument in \"Finish What Ya Started\"?",
+    "reasoning_details": "OU812 was the second album to feature a vocalist that also played what instrument in \"Finish What Ya Started\"? (intersec) every instrument they touched."
+  },
+  {
+    "id": "5ab41d855542996a3a969f4b",
+    "probability": 0.00017963327620730646,
+    "original_question": "Is the Pakistan fast bowler who joined the Kent County Cricket Club in June, 2011 a left-hand or right-hand batsmans?",
+    "reasoning_details": "Is the Pakistan fast bowler who joined the Kent County Cricket Club in June, 2011 a left-hand or right-hand batsmans? (intersec) wahab riaz"
+  },
+  {
+    "id": "5ab3eb1955429969a97a81f6",
+    "probability": 0.0009719277185158611,
+    "original_question": "The comedy play written by Shakespeare titled Twelfth Night is also know by what name?",
+    "reasoning_details": "The comedy play written by Shakespeare titled Twelfth Night is also know by what name? (intersec) twelfth night"
+  },
+  {
+    "id": "5ae2ce505542996483e64a72",
+    "probability": 0.007979353974546098,
+    "original_question": "In which year was this public research university in which Brock Marion played college football founded?",
+    "reasoning_details": "In which year was this public research university in which Brock Marion played college football founded? (intersec) 1885"
+  },
+  {
+    "id": "5a89b8f0554299669944a580",
+    "probability": 0.10212301573823246,
+    "original_question": "When was Aimee Carrero's depiction of Angie first aired?",
+    "reasoning_details": "When was Aimee Carrero's depiction of Angie first aired? (intersec) may 1993"
+  },
+  {
+    "id": "5a8f141e55429918e830d181",
+    "probability": 0.7492298230571846,
+    "original_question": "What was the setting for Raphael Coleman's best known film?",
+    "reasoning_details": "What was the setting for Raphael Coleman's best known film? (intersec) victorian engl"
+  },
+  {
+    "id": "5ae49bb755429970de88d9d7",
+    "probability": 0.9900156426971096,
+    "original_question": "Fash Mosque is 4.5 km away from which mosque originally built by Muhammad?",
+    "reasoning_details": "Fash Mosque is 4.5 km away from which mosque originally built by Muhammad? (intersec) al-masjid"
+  },
+  {
+    "id": "5a8edb5c55429917b4a5bde9",
+    "probability": 0.9996615885330963,
+    "original_question": "How many years was the politician coauthor of Common Sense, subtitled A new constitution for Britain an MP for?",
+    "reasoning_details": "How many years was the politician coauthor of Common Sense, subtitled A new constitution for Britain an MP for? (intersec) 47"
+  },
+  {
+    "id": "5a7cb2ed5542990527d55505",
+    "probability": 0.999976520031585,
+    "original_question": "When was the stadium that held the 2015 Magyar Kupa demolished?",
+    "reasoning_details": "When was the stadium that held the 2015 Magyar Kupa demolished? (intersec) 2017"
+  },
+  {
+    "id": "5a75404a55429916b01642be",
+    "probability": 0.9999999999985183,
+    "original_question": "At what university can the building that served as the fictional household that includes Gomez and Morticia be found?",
+    "reasoning_details": "At what university can the building that served as the fictional household that includes Gomez and Morticia be found? (intersec) university of chicago"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "id": "5a7f1e805542993067513640",
+    "original_question": "When does the universe, Earth, and all life on Earth were created as believed by an organization which commissioned The Voyage That Shook The World?",
+    "sub_question_1": "when does the universe, earth, all life on earth ?",
+    "sub_question_1_answer": {
+      "text": "over 4 billion years ago",
+      "probability": 0.474993021406547,
+      "logit": 11.216331027448177,
+      "no_answer_logit": 10.9155712723732,
+      "evidence": "<title> earth </title> earth is the third planet from the sun and the only object in the universe known to harbor life. according to radiometric dating and other sources of evidence, earth formed @@ over 4 billion years ago. @@ earth's gravity interacts with other objects in space, especially the sun and the moon, earth's only natural satellite. earth revolves around the sun in 365.26 days, a period known as an earth year. during this time, earth rotates about its axis about 366.26 times."
+    },
+    "sub_question_2": "when does the universe, earth, were created as believed by an organization which commissioned the voyage that shook the world? ?",
+    "sub_question_2_answer": {
+      "text": "2009",
+      "probability": 0.9999999994342044,
+      "logit": 47.78380465507507,
+      "no_answer_logit": 3.7570784091949463,
+      "evidence": "<title> the voyage that shook the world </title> the voyage that shook the world is a @@ 2009 @@ dramatised documentary film commissioned by creation ministries international, a christian young earth creationist organisation, and produced by fathom media. it was released to mark the 200th anniversary of charles darwin's birth and the 150th anniversary of the publication of his seminal work \"on the origin of species\"."
+    },
+    "class_scores": [
+      {
+        "probability": 0.0005010726511374746,
+        "f1_score": 0,
+        "sub_question_index": 0,
+        "reasoning_details": "When does the universe, Earth, and all life on Earth were created as believed by an organization which commissioned The Voyage That Shook The World? (bridge) 2009",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.0010613185780393817,
+        "f1_score": 0,
+        "sub_question_index": 1,
+        "reasoning_details": "When does the universe, Earth, and all life on Earth were created as believed by an organization which commissioned The Voyage That Shook The World? (intersec) 2009",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.5514462476942994,
+        "f1_score": 0.7499999999999999,
+        "sub_question_index": 2,
+        "reasoning_details": "When does the universe, Earth, and all life on Earth were created as believed by an organization which commissioned The Voyage That Shook The World? (onehop) less than 10,000 years ago",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "when does the universe, earth, all life on earth ?",
+      "when does the universe, earth, were created as believed by an organization which commissioned the voyage that shook the world? ?",
+      "when does the universe, earth, and all life on earth were created as believed by an organization which commissioned the voyage that shook the world?",
+      "when does the universe, earth, and all life on earth were created as believed by an organization which commissioned the voyage that shook the world?"
+    ]
+  },
+  {
+    "id": "5abcf2b4554299700f9d7937",
+    "original_question": "Lorenzo Monaco was influenced by which Italian painter and architect?",
+    "sub_question_1": "lorenzo monaco was influenced by which ?",
+    "sub_question_1_answer": {
+      "text": "giotto",
+      "probability": 0.9999837535280034,
+      "logit": 59.10119819641113,
+      "no_answer_logit": 0.9224557876586914,
+      "evidence": "<title> lorenzo monaco </title> lorenzo monaco (born piero di giovanni; 1370 – c. 1425) was an italian painter of the late gothic-early renaissance age. he was born piero di giovanni in siena. little is known about his youth, apart from the fact that he was apprenticed in florence. he was influenced by @@ giotto @@ and his followers spinello aretino and agnolo gaddi."
+    },
+    "sub_question_2": "which italian painter and architect? ?",
+    "sub_question_2_answer": {
+      "text": "giotto",
+      "probability": 0.9959468363763074,
+      "logit": 66.75143098831177,
+      "no_answer_logit": -3.7492880821228027,
+      "evidence": "<title> giotto </title> giotto di bondone ( 1270 – january 8, 1337), known mononymously as @@ giotto @@ (] ) and latinised as giottus, was an italian painter and architect from florence during the late middle ages. he worked during the \"gothic or proto-renaissance\" period."
+    },
+    "class_scores": [
+      {
+        "probability": 0.0026136269004835167,
+        "f1_score": 0.5,
+        "sub_question_index": 0,
+        "reasoning_details": "Lorenzo Monaco was influenced by which Italian painter and architect? (bridge) giotto di bondone",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.11804265926483669,
+        "f1_score": 1.0,
+        "sub_question_index": 1,
+        "reasoning_details": "Lorenzo Monaco was influenced by which Italian painter and architect? (intersec) giotto",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.04696909652771735,
+        "f1_score": 1.0,
+        "sub_question_index": 2,
+        "reasoning_details": "Lorenzo Monaco was influenced by which Italian painter and architect? (onehop) giotto",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "lorenzo monaco was influenced by which ?",
+      "which italian painter and architect? ?",
+      "lorenzo monaco was influenced by which italian painter and architect?",
+      "lorenzo monaco was influenced by which italian painter and architect?"
+    ]
+  },
+  {
+    "id": "5a806aca5542996402f6a503",
+    "original_question": "Which characters are akin to goblins and were added to a Tilted Mill Entertainment video game in 2009?",
+    "sub_question_1": "which characters are akin to goblins ?",
+    "sub_question_1_answer": {
+      "text": "orc",
+      "probability": 0.9996275763749654,
+      "logit": 31.55665922164917,
+      "no_answer_logit": 8.955165386199951,
+      "evidence": "<title> orc </title> an @@ orc @@ (also spelled as ork) is a fictional humanoid creature that is part of a fantasy race akin to goblins."
+    },
+    "sub_question_2": "which characters are were added to a tilted mill entertainment video game in 2009? ?",
+    "sub_question_2_answer": {
+      "text": "orc",
+      "probability": 0.9855598437623474,
+      "logit": 36.07701587677002,
+      "no_answer_logit": 5.136682510375977,
+      "evidence": "<title> orc </title> an @@ orc @@ (also spelled as ork) is a fictional humanoid creature that is part of a fantasy race akin to goblins."
+    },
+    "class_scores": [
+      {
+        "probability": 0.9188004416548611,
+        "f1_score": 0.6666666666666666,
+        "sub_question_index": 0,
+        "reasoning_details": "Which characters are akin to goblins and were added to a Tilted Mill Entertainment video game in 2009? (bridge) orc",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.2801729160578253,
+        "f1_score": 0.6666666666666666,
+        "sub_question_index": 1,
+        "reasoning_details": "Which characters are akin to goblins and were added to a Tilted Mill Entertainment video game in 2009? (intersec) orc",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.37600994789660264,
+        "f1_score": 0.6666666666666666,
+        "sub_question_index": 2,
+        "reasoning_details": "Which characters are akin to goblins and were added to a Tilted Mill Entertainment video game in 2009? (onehop) orc",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "which characters are akin to goblins ?",
+      "which characters are were added to a tilted mill entertainment video game in 2009? ?",
+      "which characters are akin to goblins and were added to a tilted mill entertainment video game in 2009?",
+      "which characters are akin to goblins and were added to a tilted mill entertainment video game in 2009?"
+    ]
+  },
+  {
+    "id": "5a86578755429960ec39b668",
+    "original_question": "What is the name of the company which acquired, in 2008, the world's largest beer producer that broke a distribution aggreement with Shangy's?",
+    "sub_question_1": "what is the name of the company acquired, in 2008, the world's largest beer producer ?",
+    "sub_question_1_answer": {
+      "text": "anheuser-busch",
+      "probability": 0.9999999997265232,
+      "logit": 65.24225115776062,
+      "no_answer_logit": 1.0081818103790283,
+      "evidence": "<title> inbev </title> inbev was a brewing company that resulted from the merger between belgium-based company interbrew and brazilian brewer ambev which took place in 2004. it existed independently until the acquisition of @@ anheuser-busch @@ in 2008, that formed anheuser-busch inbev (abbreviated ab inbev). inbev had operations in over 30 countries and sales in over 130 countries. in 2006, it had a market capitalization of €30.6 billion and net profit of €3.2 billion on sales of €13.3 billion."
+    },
+    "sub_question_2": "what is the name of the company broke a distribution aggreement with shangy's? ?",
+    "sub_question_2_answer": {
+      "text": "birra stela",
+      "probability": 0.9999999933607107,
+      "logit": 46.72310143709183,
+      "no_answer_logit": 7.25864189863205,
+      "evidence": "<title> birra stela </title> @@ birra stela @@ \"(english: stela beer )\" is a beer company based in tirana, albania. it is the second largest beer producer in the country with an annual production capacity of 250,000 hl, covering roughly 15-18% of the domestic market."
+    },
+    "class_scores": [
+      {
+        "probability": 0.3511316418112057,
+        "f1_score": 1.0,
+        "sub_question_index": 0,
+        "reasoning_details": "What is the name of the company which acquired, in 2008, the world's largest beer producer that broke a distribution aggreement with Shangy's? (bridge) anheuser-busch",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.3227945531255035,
+        "f1_score": 1.0,
+        "sub_question_index": 1,
+        "reasoning_details": "What is the name of the company which acquired, in 2008, the world's largest beer producer that broke a distribution aggreement with Shangy's? (intersec) anheuser-busch",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.3345414905910003,
+        "f1_score": 1.0,
+        "sub_question_index": 2,
+        "reasoning_details": "What is the name of the company which acquired, in 2008, the world's largest beer producer that broke a distribution aggreement with Shangy's? (onehop) anheuser-busch",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "what is the name of the company acquired, in 2008, the world's largest beer producer ?",
+      "what is the name of the company broke a distribution aggreement with shangy's? ?",
+      "what is the name of the company which acquired, in 2008, the world's largest beer producer that broke a distribution aggreement with shangy's?",
+      "what is the name of the company which acquired, in 2008, the world's largest beer producer that broke a distribution aggreement with shangy's?"
+    ]
+  },
+  {
+    "id": "5adf03b35542993a75d263d3",
+    "original_question": "Where is the international airport which Eagle Aviation wet lease operations were based in located ",
+    "sub_question_1": "where is the international airport eagle aviation wet lease operations ?",
+    "sub_question_1_answer": {
+      "text": "charles de gaulle airport",
+      "probability": 0.978617208913649,
+      "logit": 44.75750029087067,
+      "no_answer_logit": 10.02427613735199,
+      "evidence": "<title> eagle aviation france </title> eagle aviation france was a charter airline based in saint-nazaire, france. its wet lease operations were based in paris at @@ charles de gaulle airport. @@"
+    },
+    "sub_question_2": "where is the international airport were based in located ?",
+    "sub_question_2_answer": {
+      "text": ".",
+      "probability": 1.0,
+      "logit": -22.34345304965973,
+      "no_answer_logit": 4.928464472293854,
+      "evidence": "<title> bishop international airport </title> bishop international airport (iata: fnt, icao: kfnt, faa lid: fnt) is a commercial and general aviation airport located in flint, michigan. it is named after banker and general motors board member arthur giles bishop (april 12, 1851 – january 22, 1944), who donated 220 acres of his farmland for the airport in 1928. the third busiest airport in michigan, it surpassed competitor mbs international airport in terms of airline operations in 2002. in 2007, 1,071,238 passengers used bishop international airport; in 2011, 938,914 passengers used the airport. it is included in the federal aviation administration (faa) national plan of integrated airport systems for 2017–2021, in which it is categorized as a small hub primary commercial service facility. the airport is currently served by several passenger airlines: allegiant air, southwest airlines and delta air lines operate mainline service out of the airport, as well as affiliates of delta connection, united express and american eagle. additionally, fedex express and a fedex feeder affiliate operate cargo services out of the airport. accompanying the airlines is fixed-base operator av flight that handles both general aviation and airline operations and the flight school american wings aviation. bishop international airport is in southwestern flint, and is surrounded by flint township to the north, east and west; and mundy township to the @@ south. @@"
+    },
+    "class_scores": [
+      {
+        "probability": 0.0008790318626551618,
+        "f1_score": 0,
+        "sub_question_index": 0,
+        "reasoning_details": "Where is the international airport which Eagle Aviation wet lease operations were based in located  (bridge) moscow",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.48894608231186304,
+        "f1_score": 0,
+        "sub_question_index": 1,
+        "reasoning_details": "Where is the international airport which Eagle Aviation wet lease operations were based in located  (intersec) charles de gaulle airport",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.40073096229236715,
+        "f1_score": 1.0,
+        "sub_question_index": 2,
+        "reasoning_details": "Where is the international airport which Eagle Aviation wet lease operations were based in located  (onehop) france",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "where is the international airport eagle aviation wet lease operations ?",
+      "where is the international airport were based in located ?",
+      "where is the international airport which eagle aviation wet lease operations were based in located",
+      "where is the international airport which eagle aviation wet lease operations were based in located"
+    ]
+  },
+  {
+    "id": "5a82fe5055429966c78a6ad3",
+    "original_question": "The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",
+    "sub_question_1": "the company they keep is a book written by diana pavlac glyer, who is a professor at a university in azusa, california, ?",
+    "sub_question_1_answer": {
+      "text": "azusa pacific university",
+      "probability": 0.9034283466567599,
+      "logit": 9.519079208374023,
+      "no_answer_logit": 6.800654768943787,
+      "evidence": "<title> the company they keep </title> the company they keep: c. s. lewis and j. r. r. tolkien as writers in community (2007) is a non-fiction book written by diana pavlac glyer, an inklings scholar and english professor at @@ azusa pacific university. @@ \"the company they keep\" challenges the commonly held belief that the inklings did not influence each other through a detailed and engaging examination of both published and unpublished works, papers, and letters written by j.r.r. tolkien, c.s. lewis, charles williams, owen barfield, warren lewis and the lesser-known writers who comprised the inklings."
+    },
+    "sub_question_2": "the was founded in 1899, and is under the auspices of what religion? ?",
+    "sub_question_2_answer": {
+      "text": "christian",
+      "probability": 0.6442876949201681,
+      "logit": 35.71305841207504,
+      "no_answer_logit": 8.597491800785065,
+      "evidence": "<title> azusa pacific university </title> azusa pacific university (apu) is a private, evangelical @@ christian @@ university located near los angeles in suburban azusa, california, united states. the university was founded in 1899, with classes opening on march 3, 1900, in whittier, california, and began offering degrees in 1939. the university's seminary, the graduate school of theology, holds to a wesleyan-arminian doctrinal theology. apu offers more than 100 associate, bachelor's, master's, and doctoral programs on campus, online, and at seven regional locations across southern california."
+    },
+    "class_scores": [
+      {
+        "probability": 0.9998613369644421,
+        "f1_score": 1.0,
+        "sub_question_index": 0,
+        "reasoning_details": "The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion? (bridge) evangelical christian",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.5538480899598637,
+        "f1_score": 0.6666666666666666,
+        "sub_question_index": 1,
+        "reasoning_details": "The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion? (intersec) christian",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.713478800024975,
+        "f1_score": 0.6666666666666666,
+        "sub_question_index": 2,
+        "reasoning_details": "The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion? (onehop) christian",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "the company they keep is a book written by diana pavlac glyer, who is a professor at a university in azusa, california, ?",
+      "the was founded in 1899, and is under the auspices of what religion? ?",
+      "the company they keep is a book written by diana pavlac glyer, who is a professor at a university in azusa, california, that was founded in 1899, and is under the auspices of what religion?",
+      "the company they keep is a book written by diana pavlac glyer, who is a professor at a university in azusa, california, that was founded in 1899, and is under the auspices of what religion?"
+    ]
+  },
+  {
+    "id": "5ae72fd95542991e8301cbb4",
+    "original_question": "The King who opened Newcastle Civic Center in 1968 was born in what year?",
+    "sub_question_1": "the king who opened newcastle civic center in 1968 ?",
+    "sub_question_1_answer": {
+      "text": "olav v",
+      "probability": 0.9999999892853461,
+      "logit": 41.12797164916992,
+      "no_answer_logit": 4.439228773117065,
+      "evidence": "<title> olav v of norway </title> @@ olav v @@ (born prince alexander of denmark; 2 july 1903 – 17 january 1991) was king of norway from 1957 until his death."
+    },
+    "sub_question_2": "who opened newcastle civic center in 1968 was born in what year? ?",
+    "sub_question_2_answer": {
+      "text": "1903",
+      "probability": 0.998391448791195,
+      "logit": 49.73483920097351,
+      "no_answer_logit": 4.043358564376831,
+      "evidence": "<title> olav v of norway </title> olav v (born prince alexander of denmark; 2 july @@ 1903 @@ – 17 january 1991) was king of norway from 1957 until his death."
+    },
+    "class_scores": [
+      {
+        "probability": 0.9999067095319992,
+        "f1_score": 1.0,
+        "sub_question_index": 0,
+        "reasoning_details": "The King who opened Newcastle Civic Center in 1968 was born in what year? (bridge) 1903",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.6288009624353923,
+        "f1_score": 1.0,
+        "sub_question_index": 1,
+        "reasoning_details": "The King who opened Newcastle Civic Center in 1968 was born in what year? (intersec) 1903",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.9595356874943569,
+        "f1_score": 1.0,
+        "sub_question_index": 2,
+        "reasoning_details": "The King who opened Newcastle Civic Center in 1968 was born in what year? (onehop) 1903",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "the king who opened newcastle civic center in 1968 ?",
+      "who opened newcastle civic center in 1968 was born in what year? ?",
+      "the king who opened newcastle civic center in 1968 was born in what year?",
+      "the king who opened newcastle civic center in 1968 was born in what year?"
+    ]
+  },
+  {
+    "id": "5a80fb97554299260e20a1eb",
+    "original_question": "What was the name of the first biography of Brontë written by the author of Mary Barton?",
+    "sub_question_1": "what was the name of the first biography of brontë written ?",
+    "sub_question_1_answer": {
+      "text": "the life of charlotte brontë",
+      "probability": 0.9998737071200262,
+      "logit": 66.37399387359619,
+      "no_answer_logit": 0.6261692047119141,
+      "evidence": "<title> elizabeth gaskell </title> elizabeth cleghorn gaskell, (\"née\" stevenson; 29 september 1810 – 12 november 1865), often referred to as mrs gaskell, was an english novelist, biographer, and short story writer. her novels offer a detailed portrait of the lives of many strata of victorian society, including the very poor, and are of interest to social historians as well as lovers of literature. her first novel, \"mary barton\", was published in 1848. gaskell's @@ \"the life of charlotte brontë\", @@ published in 1857, was the first biography of brontë. some of gaskell's best known novels are \"cranford\" (1851–53), \"north and south\" (1854–55), and \"wives and daughters\" (1865)."
+    },
+    "sub_question_2": "what was the name of the first biography of brontë by the author of mary barton? ?",
+    "sub_question_2_answer": {
+      "text": "the life of charlotte brontë",
+      "probability": 0.9992890804494192,
+      "logit": 66.03944396972656,
+      "no_answer_logit": 0.3038492202758789,
+      "evidence": "<title> elizabeth gaskell </title> elizabeth cleghorn gaskell, (\"née\" stevenson; 29 september 1810 – 12 november 1865), often referred to as mrs gaskell, was an english novelist, biographer, and short story writer. her novels offer a detailed portrait of the lives of many strata of victorian society, including the very poor, and are of interest to social historians as well as lovers of literature. her first novel, \"mary barton\", was published in 1848. gaskell's @@ \"the life of charlotte brontë\", @@ published in 1857, was the first biography of brontë. some of gaskell's best known novels are \"cranford\" (1851–53), \"north and south\" (1854–55), and \"wives and daughters\" (1865)."
+    },
+    "class_scores": [
+      {
+        "probability": 0.43265725716849046,
+        "f1_score": 0,
+        "sub_question_index": 0,
+        "reasoning_details": "What was the name of the first biography of Brontë written by the author of Mary Barton? (bridge) the life of charlotte brontë",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.7518363932461406,
+        "f1_score": 0,
+        "sub_question_index": 1,
+        "reasoning_details": "What was the name of the first biography of Brontë written by the author of Mary Barton? (intersec) the life of charlotte brontë",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.6782887268299174,
+        "f1_score": 0,
+        "sub_question_index": 2,
+        "reasoning_details": "What was the name of the first biography of Brontë written by the author of Mary Barton? (onehop) the life of charlotte brontë",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "what was the name of the first biography of brontë written ?",
+      "what was the name of the first biography of brontë by the author of mary barton? ?",
+      "what was the name of the first biography of brontë written by the author of mary barton?",
+      "what was the name of the first biography of brontë written by the author of mary barton?"
+    ]
+  },
+  {
+    "id": "5ae791a55542994a481bbdaa",
+    "original_question": "Which of the university at which Jack M. Guttentag  is a professor emeritus of finance was established in 1881 through a donation?",
+    "sub_question_1": "which of the university at jack m. guttentag is a professor emeritus of finance ?",
+    "sub_question_1_answer": {
+      "text": "university of pennsylvania",
+      "probability": 0.9321276474820703,
+      "logit": 58.723933696746826,
+      "no_answer_logit": -4.407154560089111,
+      "evidence": "<title> jack m. guttentag </title> jack m. guttentag (born december 9, 1923) is a professor emeritus of finance at the wharton school of the @@ university of pennsylvania. @@ he is also a consumer advocate and creator of \"the mortgage professor\", a website that provides free and disinterested advice to consumers on mortgage-related issues."
+    },
+    "sub_question_2": "which of the university at was established in 1881 through a donation? ?",
+    "sub_question_2_answer": {
+      "text": "the wharton school of the university of pennsylvania",
+      "probability": 0.9067012961951086,
+      "logit": 46.79916572570801,
+      "no_answer_logit": 4.849914073944092,
+      "evidence": "<title> wharton school of the university of pennsylvania </title> @@ the wharton school of the university of pennsylvania @@ ( ; also known as the wharton school or simply wharton) is the business school of the university of pennsylvania, a private ivy league university located in philadelphia, pennsylvania. wharton was established in 1881 through a donation from joseph wharton and is the world’s first collegiate school of business."
+    },
+    "class_scores": [
+      {
+        "probability": 0.9999886660086382,
+        "f1_score": 0.8,
+        "sub_question_index": 0,
+        "reasoning_details": "Which of the university at which Jack M. Guttentag  is a professor emeritus of finance was established in 1881 through a donation? (bridge) wharton school of the university of pennsylvania",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.881217455801591,
+        "f1_score": 0.5714285714285715,
+        "sub_question_index": 1,
+        "reasoning_details": "Which of the university at which Jack M. Guttentag  is a professor emeritus of finance was established in 1881 through a donation? (intersec) university of pennsylvania",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.9999462940994481,
+        "f1_score": 0.8,
+        "sub_question_index": 2,
+        "reasoning_details": "Which of the university at which Jack M. Guttentag  is a professor emeritus of finance was established in 1881 through a donation? (onehop) wharton school of the university of pennsylvania",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "which of the university at jack m. guttentag is a professor emeritus of finance ?",
+      "which of the university at was established in 1881 through a donation? ?",
+      "which of the university at which jack m. guttentag is a professor emeritus of finance was established in 1881 through a donation?",
+      "which of the university at which jack m. guttentag is a professor emeritus of finance was established in 1881 through a donation?"
+    ]
+  },
+  {
+    "id": "5abef8fd5542990832d3a111",
+    "original_question": "The evil clown is a subversion of the traditional comic clown character with the modern archetype popularised by a book that follows the experiences of how many children?",
+    "sub_question_1": "the evil clown is a subversion of the traditional comic clown character ?",
+    "sub_question_1_answer": {
+      "text": "bozo the clown",
+      "probability": 0.9999997356299375,
+      "logit": 41.938628911972046,
+      "no_answer_logit": 6.807318925857544,
+      "evidence": "<title> bozo the clown </title> @@ bozo the clown @@ is a clown character whose broad popularity peaked in the united states in the 1960s as a result of widespread franchising in early television."
+    },
+    "sub_question_2": "the with the modern archetype popularised by a book that follows the experiences of how many children? ?",
+    "sub_question_2_answer": {
+      "text": "seven",
+      "probability": 0.9163216980163905,
+      "logit": 53.710463762283325,
+      "no_answer_logit": -1.6516344547271729,
+      "evidence": "<title> it (novel) </title> it is a 1986 horror novel by american author stephen king. it was his 22nd book and 18th novel written under his own name. the story follows the experiences of @@ seven @@ children as they are terrorized by a being that exploits the fears and phobias of its victims to disguise itself while hunting its prey. \"it\" primarily appears in the form of a clown to attract its preferred prey of young children."
+    },
+    "class_scores": [
+      {
+        "probability": 0.9974127917352474,
+        "f1_score": 1.0,
+        "sub_question_index": 0,
+        "reasoning_details": "The evil clown is a subversion of the traditional comic clown character with the modern archetype popularised by a book that follows the experiences of how many children? (bridge) seven",
+        "reasoning_type": "bridge"
+      },
+      {
+        "probability": 0.9502490990687484,
+        "f1_score": 1.0,
+        "sub_question_index": 1,
+        "reasoning_details": "The evil clown is a subversion of the traditional comic clown character with the modern archetype popularised by a book that follows the experiences of how many children? (intersec) seven",
+        "reasoning_type": "intersec"
+      },
+      {
+        "probability": 0.925863242982944,
+        "f1_score": 1.0,
+        "sub_question_index": 2,
+        "reasoning_details": "The evil clown is a subversion of the traditional comic clown character with the modern archetype popularised by a book that follows the experiences of how many children? (onehop) seven",
+        "reasoning_type": "comparison"
+      }
+    ],
+    "dev_predictions": [
+      "the evil clown is a subversion of the traditional comic clown character ?",
+      "the with the modern archetype popularised by a book that follows the experiences of how many children? ?",
+      "the evil clown is a subversion of the traditional comic clown character with the modern archetype popularised by a book that follows the experiences of how many children?",
+      "the evil clown is a subversion of the traditional comic clown character with the modern archetype popularised by a book that follows the experiences of how many children?"
+    ]
+  }
+]
