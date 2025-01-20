@@ -3,3 +3,4 @@ pretrained_Tensorflow_BERT/uncased_L-12_H-768_A-12/uncased_L-12_H-768_A-12/pytor
 DecompRC/data/** filter=lfs diff=lfs merge=lfs -text
 DecompRC/hotpot_data/** filter=lfs diff=lfs merge=lfs -text
 DecompRC/model/** filter=lfs diff=lfs merge=lfs -text
+DecompRC/* filter=lfs diff=lfs merge=lfs -text
