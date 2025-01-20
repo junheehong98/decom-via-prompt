@@ -4,3 +4,5 @@ DecompRC/data/** filter=lfs diff=lfs merge=lfs -text
 DecompRC/hotpot_data/** filter=lfs diff=lfs merge=lfs -text
 DecompRC/model/** filter=lfs diff=lfs merge=lfs -text
 DecompRC/* filter=lfs diff=lfs merge=lfs -text
+DecompRC/out/final_results.json filter=lfs diff=lfs merge=lfs -text
+DecompRC/out/processed_intersection_results3.json filter=lfs diff=lfs merge=lfs -text
